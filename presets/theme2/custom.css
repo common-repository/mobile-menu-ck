@@ -1,0 +1,25 @@
+|ID| div span.descck {
+    padding-left: 10px;
+    font-size: 12px;
+}
+
+|ID| div.level2 > a:before {
+	display: block;
+	float: left;
+	height: 100%;
+	content: "- ";
+	margin-right: 3px;
+}
+
+|ID| div.level3 > a:before {
+	display: block;
+	float: left;
+	height: 100%;
+	content: "—— ";
+	margin-right: 3px;
+}
+
+|ID| div.level4 > a {
+    background: #e3e3e3;
+    padding-left: 45px;
+}

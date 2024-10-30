@@ -1,0 +1,16 @@
+|ID|.mobilemenuck div span.descck {
+	padding-left: 10px;
+	font-size: 12px;
+}
+
+.mobilemenuck-bar {
+	position: fixed !important;
+	bottom: 0px;
+	top: auto;
+}
+
+|ID|.mobilemenuck {
+	bottom: 0;
+	position: fixed !important;
+	overflow-y: auto;
+}

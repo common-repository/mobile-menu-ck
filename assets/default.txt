@@ -1,0 +1,172 @@
+/* Mobile Menu CK - https://www.joomlack.fr */
+/* Automatic styles */
+
+.mobilemenuck-bar {display:none;position:relative;left:0;top:0;right:0;z-index:100;}
+.mobilemenuck-bar-title {display: block;}
+.mobilemenuck-bar-button {cursor:pointer;box-sizing: border-box;position:absolute; top: 0; right: 0;line-height:0.8em;font-family:Segoe UI;text-align: center;}
+.mobilemenuck {box-sizing: border-box;width: 100%;}
+.mobilemenuck-topbar {position:relative;}
+.mobilemenuck-title {display: block;}
+.mobilemenuck-button {cursor:pointer;box-sizing: border-box;position:absolute; top: 0; right: 0;line-height:0.8em;font-family:Segoe UI;text-align: center;}
+.mobilemenuck a {display:block;}
+.mobilemenuck a:hover {text-decoration: none;}
+.mobilemenuck .mobilemenuck-item > div {position:relative;}
+/* for accordion */
+.mobilemenuck-togglericon:after {cursor:pointer;text-align:center;display:block;position: absolute;right: 0;top: 0;content:"+";}
+.mobilemenuck .open .mobilemenuck-togglericon:after {content:"-";}
+
+|ID|[menu-bar] {
+	background: #464646;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-indent: 20px;
+	line-height: 43px;
+	font-size: 20px;
+}
+
+|ID|[menu-bar] a {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-indent: 20px;
+	line-height: 43px;
+	font-size: 20px;
+}
+
+|ID|[menu-bar-button] {
+	background: #333333;
+	height: 43px;
+	width: 43px;
+	color: #FFFFFF;
+	padding-top: 8px;
+	font-size: 1.8em;
+}
+
+|ID|[menu-bar-button] a {
+	color: #FFFFFF;
+	font-size: 1.8em;
+}
+
+|ID|[menu] {
+	background: #464646;
+	color: #FFFFFF;
+	padding-bottom: 5px;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+|ID|[menu] a {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+|ID|[menu-topbar] {
+	background: #464646;
+	height: 43px;
+	text-indent: 20px;
+	line-height: 43px;
+	font-size: 20px;
+}
+
+|ID|[menu-topbar] a {
+	text-indent: 20px;
+	line-height: 43px;
+	font-size: 20px;
+}
+
+|ID|[menu-topbar-button] {
+	height: 35px;
+	width: 45px;
+	line-height: 35px;
+	font-size: 1.8em;
+}
+
+|ID|[menu-topbar-button] a {
+	line-height: 35px;
+	font-size: 1.8em;
+}
+
+|ID|[level1menuitem] {
+	background: #027EA6;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-o-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	color: #FFFFFF;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+	padding-left: 15px;
+	line-height: 35px;
+}
+
+|ID|[level1menuitem] a {
+	color: #FFFFFF;
+	line-height: 35px;
+}
+
+|ID|[level2menuitem] {
+	background: #FFFFFF;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-o-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	color: #000000;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+	padding-left: 25px;
+	line-height: 35px;
+}
+
+|ID|[level2menuitem] a {
+	color: #000000;
+	line-height: 35px;
+}
+
+|ID|[level3menuitem] {
+	background: #689332;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-o-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	color: #FFFFFF;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+	padding-left: 35px;
+	line-height: 35px;
+}
+
+|ID|[level3menuitem] a {
+	color: #FFFFFF;
+	line-height: 35px;
+}
+
+|ID|[togglericon] {
+	background: #000000;
+	background: rgba(0,0,0,0.25);
+	-pie-background: rgba(0,0,0,0.25);
+	-moz-border-radius: 0px 5px 5px 0px;
+	-o-border-radius: 0px 5px 5px 0px;
+	-webkit-border-radius: 0px 5px 5px 0px;
+	border-radius: 0px 5px 5px 0px;
+	height: 35px;
+	width: 35px;
+	padding-right: 5px;
+	padding-left: 5px;
+	line-height: 35px;
+	font-size: 1.7em;
+}
+
+|ID|[togglericon] a {
+	line-height: 35px;
+	font-size: 1.7em;
+}
+.mobilemaximenuck div span.descck {
+    padding-left: 10px;
+    font-size: 12px;
+}

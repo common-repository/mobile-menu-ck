@@ -1,0 +1,5199 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distrubuted under the GPL-2.0+
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobile Menu CK\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2018-07-27 16:20+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cédric KEIFLIN <ced1870@gmail.com>\n"
+"Language-Team: Plugins CK\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../slideshow-ck-pro-addon/class-slideshow-ck-pro-addon.php:16
+msgid "Autoload from a folder"
+msgstr "Chargement automatique d'un dossier"
+
+#: ../slideshow-ck-pro-addon/class-slideshow-ck-pro-addon.php:19
+#: helpers/ckinterface.php:151
+msgid "Select"
+msgstr "Sélectionner"
+
+#: ../slideshow-ck-pro-addon/class-slideshow-ck-pro-addon.php:20
+msgid ""
+"Select the folder in the interface or write your own path. Example : wp-"
+"content/images"
+msgstr ""
+"Sélectionnez le dossier dans l'interface ou écrivez votre propre chemin. "
+"Exemple : wp-content/images"
+
+#: addons/text/layouts/edit.php:13
+#, fuzzy
+#| msgid "Text shadow"
+msgid "Text edition"
+msgstr "Ombre de texte"
+
+#: addons/text/layouts/edit.php:18
+msgid "Styles"
+msgstr "Styles"
+
+#: addons/text/text.php:24 interfaces/itemsselection.php:19
+#: views/mobilemenu/tmpl/edit_modeles.php:26
+#: views/mobilemenu/tmpl/edit_modeles.php:37
+msgid "Text"
+msgstr "Texte"
+
+#: addons/text/text.php:25
+msgid "Text with a visual editor"
+msgstr "Texte avec éditeur"
+
+#: controller.php:28 helpers/helper.php:22
+msgid "CK_UPDATE_NOTIFICATION"
+msgstr ""
+
+#: controllers/mobilemenu.php:103
+msgid "CK_TEMPLATE_SAVE_ERROR"
+msgstr ""
+
+#: controllers/mobilemenu.php:105
+msgid "CK_TEMPLATE_SAVED"
+msgstr ""
+
+#: controllers/mobilemenu.php:144
+msgid "CK_INSTALL_GABARIT_ERROR"
+msgstr ""
+
+#: controllers/mobilemenu.php:148
+msgid "CK_GABARIT_INSTALLED"
+msgstr ""
+
+#: helpers/_ckinstaller.php:26
+msgid "CK_ERROR_DOWNLOAD_PACKAGE_FROM_URL"
+msgstr ""
+
+#: helpers/_ckinstaller.php:59
+msgid "COM_INSTALLER_TYPE_TYPE_"
+msgstr ""
+
+#: helpers/_ckinstaller.php:93
+msgid "CK_ERROR_EXTRACT_PACKAGE"
+msgstr ""
+
+#: helpers/_ckinstaller.php:99
+msgid "CK_ERROR_WIDGET_NOT_FOUND"
+msgstr ""
+
+#: helpers/_cklisttablefont.php:175
+msgid "Name"
+msgstr "Nom"
+
+#: helpers/_cklisttablefont.php:176
+#, fuzzy
+#| msgid "Font Family"
+msgid "Font families"
+msgstr "Famille de police"
+
+#: helpers/_cklisttablefont.php:177
+msgid "Subset"
+msgstr ""
+
+#: helpers/_cklisttablefont.php:178
+msgid "Alternatives"
+msgstr ""
+
+#: helpers/_cklisttablefont.php:179 helpers/cklisttablemobilemenu.php:161
+#: interfaces.bak/ajaxmoduleslist.php:40
+msgid "ID"
+msgstr "ID"
+
+#: helpers/_zip.php:208
+msgid "JLIB_FILESYSTEM_ZIP_NOT_SUPPORTED"
+msgstr ""
+
+#: helpers/_zip.php:215
+msgid "JLIB_FILESYSTEM_ZIP_UNABLE_TO_READ"
+msgstr ""
+
+#: helpers/_zip.php:222
+msgid "JLIB_FILESYSTEM_ZIP_INFO_FAILED"
+msgstr ""
+
+#: helpers/_zip.php:239
+msgid "JLIB_FILESYSTEM_ZIP_UNABLE_TO_CREATE_DESTINATION"
+msgstr ""
+
+#: helpers/_zip.php:246
+msgid "JLIB_FILESYSTEM_ZIP_UNABLE_TO_WRITE_ENTRY"
+msgstr ""
+
+#: helpers/_zip.php:299
+msgid "JLIB_FILESYSTEM_ZIP_UNABLE_TO_READ_ENTRY"
+msgstr ""
+
+#: helpers/_zip.php:309
+msgid "JLIB_FILESYSTEM_ZIP_UNABLE_TO_OPEN_ARCHIVE"
+msgstr ""
+
+#: helpers/_zip.php:373
+msgid "JLIB_FILESYSTEM_ZIP_INVALID_ZIP_DATA"
+msgstr ""
+
+#: helpers/ckfile.php:251
+msgid "JLIB_FILESYSTEM_CANNOT_FIND_SOURCE_FILE"
+msgstr ""
+
+#: helpers/ckfolder.php:419
+msgid "JLIB_FILESYSTEM_ERROR_FIND_SOURCE_FOLDER"
+msgstr ""
+
+#: helpers/ckfolder.php:424
+msgid "JLIB_FILESYSTEM_ERROR_FOLDER_EXISTS"
+msgstr ""
+
+#: helpers/ckfolder.php:461
+msgid "Rename failed"
+msgstr ""
+
+#: helpers/ckinterface.php:42
+msgid "CK_PAGEBACKGROUND"
+msgstr ""
+
+#: helpers/ckinterface.php:152
+#, fuzzy
+#| msgid "Clear"
+msgid "Clean"
+msgstr "Effacer"
+
+#: helpers/ckinterface.php:166
+msgid "CK_SHAPE"
+msgstr ""
+
+#: helpers/ckinterface.php:170 helpers/ckinterface.php:783
+#: helpers/ckinterface.php:792 views/_fontselect/tmpl/default.php:50
+msgid "CK_NONE"
+msgstr ""
+
+#: helpers/ckinterface.php:171
+msgid "CK_CLOUDS"
+msgstr ""
+
+#: helpers/ckinterface.php:172
+msgid "CK_MULIPLE_CLOUDS"
+msgstr ""
+
+#: helpers/ckinterface.php:173
+msgid "CK_PAPER"
+msgstr ""
+
+#: helpers/ckinterface.php:174
+msgid "CK_BRIDGE"
+msgstr ""
+
+#: helpers/ckinterface.php:175
+msgid "CK_MOUNTAIN"
+msgstr ""
+
+#: helpers/ckinterface.php:176
+msgid "CK_WAVE"
+msgstr ""
+
+#: helpers/ckinterface.php:177
+msgid "CK_MULTIPLE_WAVE"
+msgstr ""
+
+#: helpers/ckinterface.php:178
+msgid "CK_SLOPE"
+msgstr ""
+
+#: helpers/ckinterface.php:179
+msgid "CK_MULIPLE_SLOPE"
+msgstr ""
+
+#: helpers/ckinterface.php:180
+msgid "CK_DRIP"
+msgstr ""
+
+#: helpers/ckinterface.php:181
+msgid "CK_ASYM_SLOPE"
+msgstr ""
+
+#: helpers/ckinterface.php:182
+msgid "CK_VSLOPE"
+msgstr ""
+
+#: helpers/ckinterface.php:183
+msgid "CK_MULTIVSLOPE"
+msgstr ""
+
+#: helpers/ckinterface.php:184
+msgid "CK_MULTIV3SLOPE"
+msgstr ""
+
+#: helpers/ckinterface.php:185
+msgid "CK_TRIANGLE"
+msgstr ""
+
+#: helpers/ckinterface.php:186
+msgid "CK_TRIANGLE_SMALL"
+msgstr ""
+
+#: helpers/ckinterface.php:187
+msgid "CK_TRIANGLE_3"
+msgstr ""
+
+#: helpers/ckinterface.php:188
+msgid "CK_ELLIPSE"
+msgstr ""
+
+#: helpers/ckinterface.php:196
+msgid "CK_FIRST_COLOR"
+msgstr ""
+
+#: helpers/ckinterface.php:207
+msgid "CK_SECOND_COLOR"
+msgstr ""
+
+#: helpers/ckinterface.php:217 views/template_/tmpl/edit_head.php:145
+#: assets/admin_bak.js:2347
+msgid "CK_POSITION"
+msgstr ""
+
+#: helpers/ckinterface.php:221 helpers/ckinterface.php:327
+#: helpers/ckinterface.php:336 helpers/ckinterface.php:646
+#: helpers/ckinterface.php:659 helpers/ckinterface.php:1016
+#: helpers/ckinterface.php:1030 views/mobilemenu/tmpl/edit_wizard.php:217
+#: views/mobilemenu/tmpl/edit_wizard.php:252
+#: views/template_/tmpl/edit_wizard.php:211
+#: views/template_/tmpl/edit_wizard.php:246
+msgid "CK_TOP"
+msgstr ""
+
+#: helpers/ckinterface.php:222 helpers/ckinterface.php:329
+#: helpers/ckinterface.php:338 helpers/ckinterface.php:648
+#: helpers/ckinterface.php:661 helpers/ckinterface.php:1018
+#: helpers/ckinterface.php:1032 views/mobilemenu/tmpl/edit_wizard.php:219
+#: views/mobilemenu/tmpl/edit_wizard.php:254
+#: views/template_/tmpl/edit_wizard.php:213
+#: views/template_/tmpl/edit_wizard.php:248
+msgid "CK_BOTTOM"
+msgstr ""
+
+#: helpers/ckinterface.php:229
+msgid "CK_FLIP_HORIZONTAL"
+msgstr ""
+
+#: helpers/ckinterface.php:233 helpers/ckinterface.php:245
+#: helpers/ckinterface.php:894 helpers/ckinterface.php:900
+#: helpers/ckinterface.php:906 helpers/ckinterface.php:943
+#: helpers/ckinterface.php:949 helpers/ckinterface.php:955
+#: helpers/ckinterface.php:973 helpers/ckinterface.php:979
+#: helpers/ckinterface.php:985
+msgid "CK_NORMAL"
+msgstr ""
+
+#: helpers/ckinterface.php:234 helpers/ckinterface.php:246
+msgid "CK_INVERSE"
+msgstr ""
+
+#: helpers/ckinterface.php:241
+msgid "CK_FLIP_VERTICAL"
+msgstr ""
+
+#: helpers/ckinterface.php:253
+msgid "CK_PLACEMENT"
+msgstr ""
+
+#: helpers/ckinterface.php:257
+msgid "CK_OVER_CONTENT"
+msgstr ""
+
+#: helpers/ckinterface.php:258
+msgid "CK_UNDER_CONTENT"
+msgstr ""
+
+#: helpers/ckinterface.php:264 helpers/ckinterface.php:624
+#: helpers/ckinterface.php:1055
+msgid "CK_HEIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:272 helpers/ckinterface.php:620
+#: helpers/ckinterface.php:1066 helpers/ckinterface.php:1223
+msgid "CK_WIDTH"
+msgstr ""
+
+#: helpers/ckinterface.php:285
+msgid "CK_VIDEO_URL_INFOS"
+msgstr ""
+
+#: helpers/ckinterface.php:287
+msgid "CK_VIDEO_URL_MP4"
+msgstr ""
+
+#: helpers/ckinterface.php:290 helpers/ckinterface.php:296
+#: helpers/ckinterface.php:302 helpers/ckinterface.php:311
+#: helpers/ckinterface.php:609 helpers/ckinterface.php:774
+#: views/_fontselect/tmpl/default.php:45
+#: views/template_/tmpl/ajaxparams.php:192
+#: views/template_/tmpl/ajaxparams.php:195
+#: widgets/parallaxbackground/parallaxbackground.php:121
+#: widgets/topfixedwrapper/topfixedwrapper.php:95
+msgid "CK_SELECT"
+msgstr ""
+
+#: helpers/ckinterface.php:293
+msgid "CK_VIDEO_URL_WEBM"
+msgstr ""
+
+#: helpers/ckinterface.php:299
+msgid "CK_VIDEO_URL_OGV"
+msgstr ""
+
+#: helpers/ckinterface.php:312 helpers/ckinterface.php:610
+#: helpers/ckinterface.php:775
+#: widgets/parallaxbackground/parallaxbackground.php:122
+msgid "CK_CLEAN"
+msgstr ""
+
+#: helpers/ckinterface.php:314
+msgid "CK_ICON_SIZE"
+msgstr ""
+
+#: helpers/ckinterface.php:316 helpers/ckinterface.php:335
+#: helpers/ckinterface.php:829 helpers/ckinterface.php:892
+#: helpers/ckinterface.php:898 helpers/ckinterface.php:904
+#: helpers/ckinterface.php:910 helpers/ckinterface.php:941
+#: helpers/ckinterface.php:947 helpers/ckinterface.php:953
+#: helpers/ckinterface.php:959 helpers/ckinterface.php:971
+#: helpers/ckinterface.php:977 helpers/ckinterface.php:983
+#: helpers/ckinterface.php:989 views/mobilemenu/tmpl/edit_wizard.php:97
+#: views/template_/tmpl/edit_wizard.php:91
+msgid "CK_DEFAULT"
+msgstr ""
+
+#: helpers/ckinterface.php:317
+msgid "CK_ICON_SIZE_X1-3"
+msgstr ""
+
+#: helpers/ckinterface.php:318
+msgid "CK_ICON_SIZE_X2"
+msgstr ""
+
+#: helpers/ckinterface.php:319
+msgid "CK_ICON_SIZE_X3"
+msgstr ""
+
+#: helpers/ckinterface.php:320
+msgid "CK_ICON_SIZE_X4"
+msgstr ""
+
+#: helpers/ckinterface.php:321
+msgid "CK_ICON_SIZE_X5"
+msgstr ""
+
+#: helpers/ckinterface.php:324
+msgid "CK_ICON_POSITION"
+msgstr ""
+
+#: helpers/ckinterface.php:326 helpers/ckinterface.php:649
+#: helpers/ckinterface.php:662 helpers/ckinterface.php:1019
+#: helpers/ckinterface.php:1033 views/mobilemenu/tmpl/edit_wizard.php:220
+#: views/mobilemenu/tmpl/edit_wizard.php:255
+#: views/template_/tmpl/edit_wizard.php:214
+#: views/template_/tmpl/edit_wizard.php:249
+msgid "CK_LEFT"
+msgstr ""
+
+#: helpers/ckinterface.php:328 helpers/ckinterface.php:647
+#: helpers/ckinterface.php:660 helpers/ckinterface.php:1017
+#: helpers/ckinterface.php:1031 views/mobilemenu/tmpl/edit_wizard.php:218
+#: views/mobilemenu/tmpl/edit_wizard.php:253
+#: views/template_/tmpl/edit_wizard.php:212
+#: views/template_/tmpl/edit_wizard.php:247
+msgid "CK_RIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:333
+msgid "CK_VERTICAL_ALIGN"
+msgstr ""
+
+#: helpers/ckinterface.php:337
+msgid "CK_MIDDLE"
+msgstr ""
+
+#: helpers/ckinterface.php:343
+msgid "CK_ICON_MARGIN"
+msgstr ""
+
+#: helpers/ckinterface.php:352 helpers/ckinterface.php:355
+msgid "CK_ICON"
+msgstr ""
+
+#: helpers/ckinterface.php:361 helpers/ckinterface.php:1123
+#: helpers/ckinterface.php:1214 views/mobilemenu/tmpl/edit_wizard.php:261
+#: views/mobilemenu/tmpl/edit_wizard.php:286
+#: views/template_/tmpl/edit_wizard.php:255
+#: views/template_/tmpl/edit_wizard.php:280
+msgid "CK_COLOR"
+msgstr ""
+
+#: helpers/ckinterface.php:367 helpers/ckinterface.php:825
+#: helpers/ckinterface.php:1123 helpers/ckinterface.php:1184
+#: views/mobilemenu/tmpl/edit_wizard.php:262
+#: views/mobilemenu/tmpl/edit_wizard.php:287
+#: views/template_/tmpl/ajaxparams.php:234
+#: views/template_/tmpl/ajaxparams.php:246
+#: views/template_/tmpl/edit_wizard.php:256
+#: views/template_/tmpl/edit_wizard.php:281
+msgid "CK_SIZE"
+msgstr ""
+
+#: helpers/ckinterface.php:383 interfaces.bak/ajaxparams.php:31
+#: interfaces.bak/ajaxresponsive.php:161 views/template_/tmpl/ajaxparams.php:36
+#: views/template_/tmpl/ajaxresponsive.php:145
+#: views/template_/tmpl/edit_mainmenu.php:43
+#: views/template_/tmpl/edit_paramsbuttons.php:25
+msgid "CK_CUSTOMCSS"
+msgstr ""
+
+#: helpers/ckinterface.php:385
+msgid "CK_CUSTOMCSS_INFOS"
+msgstr ""
+
+#: helpers/ckinterface.php:399
+msgid "CK_DURATION"
+msgstr ""
+
+#: helpers/ckinterface.php:408
+msgid "CK_DELAY"
+msgstr ""
+
+#: helpers/ckinterface.php:417
+msgid "CK_FADE"
+msgstr ""
+
+#: helpers/ckinterface.php:422 helpers/ckinterface.php:439
+#: helpers/ckinterface.php:478 helpers/ckinterface.php:508
+#: helpers/ckinterface.php:525 helpers/ckinterface.php:567
+#: helpers/ckinterface.php:579 helpers/ckinterface.php:589
+#: helpers/ckinterface.php:1083 interfaces.bak/ajaxlayoutcomments.php:95
+#: interfaces.bak/ajaxlayouterror404.php:29
+#: interfaces.bak/ajaxlayouterror404.php:43
+#: views/mobilemenu/tmpl/edit_wizard.php:46
+#: views/mobilemenu/tmpl/edit_wizard.php:58
+#: views/mobilemenu/tmpl/edit_wizard.php:68
+#: views/template_/tmpl/ajaxlayoutcomments.php:68
+#: views/template_/tmpl/ajaxlayouterror404.php:38
+#: views/template_/tmpl/ajaxlayouterror404.php:52
+msgid "CK_YES"
+msgstr ""
+
+#: helpers/ckinterface.php:426 helpers/ckinterface.php:443
+#: helpers/ckinterface.php:482 helpers/ckinterface.php:512
+#: helpers/ckinterface.php:529 helpers/ckinterface.php:566
+#: helpers/ckinterface.php:580 helpers/ckinterface.php:588
+#: helpers/ckinterface.php:1082 interfaces.bak/ajaxlayoutcomments.php:96
+#: interfaces.bak/ajaxlayouterror404.php:30
+#: interfaces.bak/ajaxlayouterror404.php:44
+#: views/mobilemenu/tmpl/edit_wizard.php:45
+#: views/mobilemenu/tmpl/edit_wizard.php:59
+#: views/mobilemenu/tmpl/edit_wizard.php:67
+#: views/template_/tmpl/ajaxlayoutcomments.php:69
+#: views/template_/tmpl/ajaxlayouterror404.php:39
+#: views/template_/tmpl/ajaxlayouterror404.php:53
+msgid "CK_NO"
+msgstr ""
+
+#: helpers/ckinterface.php:434
+msgid "CK_MOVE"
+msgstr ""
+
+#: helpers/ckinterface.php:450 helpers/ckinterface.php:741
+#: helpers/ckinterface.php:1237
+msgid "CK_DIRECTION"
+msgstr ""
+
+#: helpers/ckinterface.php:454
+msgid "CK_LEFT_TO_RIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:455
+msgid "CK_RIGHT_TO_LEFT"
+msgstr ""
+
+#: helpers/ckinterface.php:456
+msgid "CK_TOP_TO_BOTTOM"
+msgstr ""
+
+#: helpers/ckinterface.php:457
+msgid "CK_BOTTOM_TO_TOP"
+msgstr ""
+
+#: helpers/ckinterface.php:463
+msgid "CK_DISTANCE"
+msgstr ""
+
+#: helpers/ckinterface.php:473
+msgid "CK_ROTATE"
+msgstr ""
+
+#: helpers/ckinterface.php:503
+msgid "CK_SCALE"
+msgstr ""
+
+#: helpers/ckinterface.php:520
+msgid "CK_REPLAY_ANIMATION"
+msgstr ""
+
+#: helpers/ckinterface.php:535
+msgid "CK_PLAY_ANIMATION"
+msgstr ""
+
+#: helpers/ckinterface.php:544
+msgid "CK_WRAPPER_PARAMS"
+msgstr ""
+
+#: helpers/ckinterface.php:549 views/mobilemenu/tmpl/edit_wizard.php:28
+#: views/template_/tmpl/edit_wizard.php:22
+msgid "CK_WRAPPER_WIDTH_DESC"
+msgstr ""
+
+#: helpers/ckinterface.php:556 views/mobilemenu/tmpl/edit_wizard.php:35
+#: views/template_/tmpl/edit_wizard.php:29
+msgid "CK_FIXED"
+msgstr ""
+
+#: helpers/ckinterface.php:557 views/mobilemenu/tmpl/edit_wizard.php:36
+#: views/template_/tmpl/edit_wizard.php:30
+msgid "CK_FLUID"
+msgstr ""
+
+#: helpers/ckinterface.php:578 views/mobilemenu/tmpl/edit_wizard.php:57
+#: views/template_/tmpl/edit_wizard.php:51
+msgid "CK_AUTO"
+msgstr ""
+
+#: helpers/ckinterface.php:603 views/template_/tmpl/edit_leftpanel.php:26
+msgid "CK_LOGO"
+msgstr ""
+
+#: helpers/ckinterface.php:618 helpers/ckinterface.php:1040
+msgid "CK_DIMENSIONS"
+msgstr ""
+
+#: helpers/ckinterface.php:630
+msgid "CK_ALIGN"
+msgstr ""
+
+#: helpers/ckinterface.php:644 helpers/ckinterface.php:1014
+msgid "CK_MARGINS"
+msgstr ""
+
+#: helpers/ckinterface.php:657 helpers/ckinterface.php:1028
+msgid "CK_PADDINGS"
+msgstr ""
+
+#: helpers/ckinterface.php:673
+msgid "CK_LOGO_ALT"
+msgstr ""
+
+#: helpers/ckinterface.php:682
+msgid "CK_LOGO_URL"
+msgstr ""
+
+#: helpers/ckinterface.php:707
+msgid "CK_BACKGROUND"
+msgstr ""
+
+#: helpers/ckinterface.php:713
+msgid "CK_BACKGROUNDGRADIENT"
+msgstr ""
+
+#: helpers/ckinterface.php:717
+msgid "CK_BACKGROUNDCOLORS"
+msgstr ""
+
+#: helpers/ckinterface.php:717 helpers/ckinterface.php:751
+msgid "CK_BACKGROUNDCOLOR"
+msgstr ""
+
+#: helpers/ckinterface.php:720
+msgid "0 %"
+msgstr ""
+
+#: helpers/ckinterface.php:721 helpers/ckinterface.php:752
+msgid "CK_MAINCOLOR"
+msgstr ""
+
+#: helpers/ckinterface.php:724 helpers/ckinterface.php:728
+#: helpers/ckinterface.php:732 interfaces.bak/ajaxmodulesmanager.php:53
+#: interfaces.bak/ajaxmodulesmanager.php:66
+#: interfaces.bak/ajaxmodulesmanager.php:81
+#: interfaces.bak/ajaxmodulesmanager.php:94
+#: interfaces.bak/ajaxmodulesmanager.php:107
+#: interfaces.bak/ajaxmodulesmanager.php:122
+#: interfaces.bak/ajaxmodulesmanager.php:135
+#: interfaces.bak/ajaxmodulesmanager.php:148
+#: interfaces.bak/ajaxmodulesmanager.php:161
+#: interfaces.bak/ajaxmodulesmanager.php:176
+#: interfaces.bak/ajaxmodulesmanager.php:189
+#: interfaces.bak/ajaxmodulesmanager.php:202
+#: interfaces.bak/ajaxmodulesmanager.php:215
+#: interfaces.bak/ajaxmodulesmanager.php:228
+#: interfaces.bak/ajaxrowmanager.php:62
+#: views/template_/tmpl/ajaxmodulesmanager.php:63
+#: views/template_/tmpl/ajaxmodulesmanager.php:76
+#: views/template_/tmpl/ajaxmodulesmanager.php:91
+#: views/template_/tmpl/ajaxmodulesmanager.php:104
+#: views/template_/tmpl/ajaxmodulesmanager.php:117
+#: views/template_/tmpl/ajaxmodulesmanager.php:132
+#: views/template_/tmpl/ajaxmodulesmanager.php:145
+#: views/template_/tmpl/ajaxmodulesmanager.php:158
+#: views/template_/tmpl/ajaxmodulesmanager.php:171
+#: views/template_/tmpl/ajaxmodulesmanager.php:186
+#: views/template_/tmpl/ajaxmodulesmanager.php:199
+#: views/template_/tmpl/ajaxmodulesmanager.php:212
+#: views/template_/tmpl/ajaxmodulesmanager.php:225
+#: views/template_/tmpl/ajaxmodulesmanager.php:238
+#: views/template_/tmpl/ajaxrowmanager.php:71
+msgid "%"
+msgstr ""
+
+#: helpers/ckinterface.php:725
+msgid "CK_STOP1COLOR"
+msgstr ""
+
+#: helpers/ckinterface.php:729
+msgid "CK_STOP2COLOR"
+msgstr ""
+
+#: helpers/ckinterface.php:733
+msgid "CK_ENDCOLOR"
+msgstr ""
+
+#: helpers/ckinterface.php:737
+msgid "CK_TOPTOBOTTOM"
+msgstr ""
+
+#: helpers/ckinterface.php:738
+msgid "CK_BOTTOMTOTOP"
+msgstr ""
+
+#: helpers/ckinterface.php:739
+msgid "CK_LEFTTORIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:740
+msgid "CK_RIGHTTOLEFT"
+msgstr ""
+
+#: helpers/ckinterface.php:746 helpers/ckinterface.php:753
+#: helpers/ckinterface.php:1215
+msgid "CK_OPACITY"
+msgstr ""
+
+#: helpers/ckinterface.php:758
+msgid "CK_BACKGROUNDIMAGE"
+msgstr ""
+
+#: helpers/ckinterface.php:763
+msgid "scroll"
+msgstr ""
+
+#: helpers/ckinterface.php:764
+msgid "fixed"
+msgstr ""
+
+#: helpers/ckinterface.php:767 helpers/ckinterface.php:1232
+msgid "x"
+msgstr ""
+
+#: helpers/ckinterface.php:768 helpers/ckinterface.php:1233
+msgid "y"
+msgstr ""
+
+#: helpers/ckinterface.php:781
+msgid "CK_REPEAT"
+msgstr ""
+
+#: helpers/ckinterface.php:784 interfaces.bak/ajaxlayoutarticle.php:88
+#: interfaces.bak/ajaxlayoutblog.php:127
+msgid "CK_HORIZONTAL"
+msgstr ""
+
+#: helpers/ckinterface.php:785 interfaces.bak/ajaxlayoutarticle.php:87
+#: interfaces.bak/ajaxlayoutblog.php:126
+msgid "CK_VERTICAL"
+msgstr ""
+
+#: helpers/ckinterface.php:786
+msgid "CK_HORIZONTAL_VERTICAL"
+msgstr ""
+
+#: helpers/ckinterface.php:790
+msgid "CK_BACKGROUND_SIZE"
+msgstr ""
+
+#: helpers/ckinterface.php:793
+msgid "CK_COVER"
+msgstr ""
+
+#: helpers/ckinterface.php:794
+msgid "CK_CONTAIN"
+msgstr ""
+
+#: helpers/ckinterface.php:814 interfaces.bak/ajaxlayoutcomments.php:175
+#: views/template_/tmpl/ajaxlayoutcomments.php:48
+msgid "CK_TEXT"
+msgstr ""
+
+#: helpers/ckinterface.php:818
+msgid "CK_POLICE"
+msgstr ""
+
+#: helpers/ckinterface.php:859
+msgid "CK_SELECT_FONT"
+msgstr ""
+
+#: helpers/ckinterface.php:863 views/_fontselect/tmpl/default.php:51
+msgid "CK_FONTWEIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:890 helpers/ckinterface.php:1123
+#: interfaces.bak/ajaxlayoutcomments.php:102
+#: views/template_/tmpl/ajaxlayoutcomments.php:75
+msgid "CK_STYLE"
+msgstr ""
+
+#: helpers/ckinterface.php:893 helpers/ckinterface.php:942
+#: helpers/ckinterface.php:972
+msgid "CK_BOLD"
+msgstr ""
+
+#: helpers/ckinterface.php:899 helpers/ckinterface.php:948
+#: helpers/ckinterface.php:978
+msgid "CK_ITALIC"
+msgstr ""
+
+#: helpers/ckinterface.php:905 helpers/ckinterface.php:954
+#: helpers/ckinterface.php:984
+msgid "CK_UNDERLINE"
+msgstr ""
+
+#: helpers/ckinterface.php:911 helpers/ckinterface.php:960
+#: helpers/ckinterface.php:990
+msgid "CK_UPPERCASE"
+msgstr ""
+
+#: helpers/ckinterface.php:912 helpers/ckinterface.php:961
+#: helpers/ckinterface.php:991
+msgid "CK_LOWERCASE"
+msgstr ""
+
+#: helpers/ckinterface.php:918
+msgid "CK_SPACING"
+msgstr ""
+
+#: helpers/ckinterface.php:921
+msgid "CK_WORD"
+msgstr ""
+
+#: helpers/ckinterface.php:925
+msgid "CK_LETTER"
+msgstr ""
+
+#: helpers/ckinterface.php:929
+msgid "CK_LINEHEIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:933
+msgid "CK_TEXTINDENT"
+msgstr ""
+
+#: helpers/ckinterface.php:939
+msgid "CK_NORMALLINK"
+msgstr ""
+
+#: helpers/ckinterface.php:969
+msgid "CK_HOVERLINK"
+msgstr ""
+
+#: helpers/ckinterface.php:1010
+msgid "CK_MISE_FORME"
+msgstr ""
+
+#: helpers/ckinterface.php:1044
+msgid "CK_MIN_HEIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:1077 views/template_/tmpl/edit_head.php:147
+#: assets/admin.js:1187 assets/admin_bak.js:2337
+msgid "CK_FULLWIDTH"
+msgstr ""
+
+#: helpers/ckinterface.php:1079
+msgid "CK_FULLWIDTH_DESC"
+msgstr ""
+
+#: helpers/ckinterface.php:1102
+msgid "CK_DECORATION"
+msgstr ""
+
+#: helpers/ckinterface.php:1105
+msgid "CK_ROUNDED_CORNERS"
+msgstr ""
+
+#: helpers/ckinterface.php:1108
+msgid "CK_TOPRIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:1109
+msgid "CK_BOTTOMRIGHT"
+msgstr ""
+
+#: helpers/ckinterface.php:1110
+msgid "CK_BOTTOMLEFT"
+msgstr ""
+
+#: helpers/ckinterface.php:1111
+msgid "CK_TOPLEFT"
+msgstr ""
+
+#: helpers/ckinterface.php:1121
+msgid "CK_BORDERS"
+msgstr ""
+
+#: helpers/ckinterface.php:1207 helpers/ckinterface.php:1210
+#: views/mobilemenu/tmpl/edit_favorites.php:22
+#: views/template_/tmpl/edit_favorite.php:83
+#: views/template_/tmpl/edit_favorites.php:24
+msgid "CK_SHADOW"
+msgstr ""
+
+#: helpers/ckinterface.php:1225
+msgid "CK_BLUR"
+msgstr ""
+
+#: helpers/ckinterface.php:1226
+msgid "CK_SPREAD"
+msgstr ""
+
+#: helpers/ckinterface.php:1230
+msgid "CK_OFFSET"
+msgstr ""
+
+#: helpers/ckinterface.php:1240
+msgid "CK_OUTSIDE"
+msgstr ""
+
+#: helpers/ckinterface.php:1241
+msgid "CK_INSIDE"
+msgstr ""
+
+#: helpers/cklisttable.php:183
+msgid "No items found."
+msgstr "Aucun élément trouvé"
+
+#: helpers/cklisttable.php:307
+msgid "Bulk Actions"
+msgstr "Actions"
+
+#: helpers/cklisttable.php:317
+msgid "Apply"
+msgstr "Appliquer"
+
+#: helpers/cklisttable.php:401
+msgid "All dates"
+msgstr "Toutes les dates"
+
+#. translators: 1: month name, 2: 4-digit year
+#: helpers/cklisttable.php:414
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: helpers/cklisttable.php:430
+msgid "List View"
+msgstr "Vue en liste"
+
+#: helpers/cklisttable.php:431
+msgid "Excerpt View"
+msgstr "Vue excerpt"
+
+#: helpers/cklisttable.php:457
+#, php-format
+msgid "%s pending"
+msgstr "%s en attente"
+
+#: helpers/cklisttable.php:525 helpers/cklisttable.php:940
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 élément"
+msgstr[1] "%s éléments"
+
+#: helpers/cklisttable.php:543
+msgid "Go to the first page"
+msgstr "Aller à la première page"
+
+#: helpers/cklisttable.php:550
+msgid "Go to the previous page"
+msgstr "Aller à la page précedente"
+
+#: helpers/cklisttable.php:559
+msgid "Current page"
+msgstr "Page courante"
+
+#: helpers/cklisttable.php:565
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s de %2$s"
+
+#: helpers/cklisttable.php:569
+msgid "Go to the next page"
+msgstr "Aller à la page suivante"
+
+#: helpers/cklisttable.php:576
+msgid "Go to the last page"
+msgstr "Aller à la dernière page"
+
+#: helpers/cklisttable.php:712
+msgid "Select All"
+msgstr "Sélectionner tous"
+
+#: helpers/cklisttablemobilemenu.php:159 views/mobilemenu/tmpl/edit.php:36
+msgid "Title"
+msgstr "Titre"
+
+#: helpers/cklisttablemobilemenu.php:160
+msgid "Mobilemenu"
+msgstr "Mobilemenu"
+
+#: helpers/ckstyles.php:1271 helpers/ckstyles.php:2369
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:261
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:283
+#: views/template_/tmpl/ajaxindex.php:340
+msgid "CK_SUCCESS_CREATING_IMAGEFILES"
+msgstr ""
+
+#: helpers/ckstyles.php:2367 interfaces.bak/ajaxcreatetemplatewordpress.php:259
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:281
+#: views/template_/tmpl/ajaxindex.php:338
+msgid "CK_ERROR_CREATING_IMAGEFILES"
+msgstr ""
+
+#: helpers/ckstyles.php:2476
+msgid "CK_ERROR_CREATING_SVGIE9CSS"
+msgstr ""
+
+#: helpers/ckstyles.php:2794
+msgid "CK_ERROR_READING_FONTSCSS"
+msgstr ""
+
+#: helpers/ckstyles.php:2801
+msgid "CK_ERROR_WRITING_FONTSCSS"
+msgstr ""
+
+#: helpers/ckstyles.php:2803
+msgid "CK_SUCCESS_WRITING_FONTSCSS"
+msgstr ""
+
+#: helpers/ckwidgets.php:27
+msgid "CK_WIDGET_TOP_FIXED_WRAPPER"
+msgstr ""
+
+#: helpers/ckwidgets.php:28
+msgid "CK_WIDGET_TOP_FIXED_WRAPPER_DESC"
+msgstr ""
+
+#: helpers/ckwidgets.php:40
+msgid "CK_WIDGET_SCROLL_TO"
+msgstr ""
+
+#: helpers/ckwidgets.php:41
+msgid "CK_WIDGET_SCROLL_TO_DESC"
+msgstr ""
+
+#: helpers/ckwidgets.php:54
+msgid "CK_WIDGET_PARALLAX_BACKGROUND"
+msgstr ""
+
+#: helpers/ckwidgets.php:55
+msgid "CK_WIDGET_PARALLAX_BACKGROUND_DESC"
+msgstr ""
+
+#: helpers/ckwidgets.php:66
+msgid "CK_WIDGET_ANIMATIONS"
+msgstr ""
+
+#: helpers/ckwidgets.php:67
+msgid "CK_WIDGET_ANIMATIONS_DESC"
+msgstr ""
+
+#: helpers/helper.php:204
+msgid "CK_INVALID_TOKEN"
+msgstr ""
+
+#: helpers/helperfront.php:89
+msgid "jquery.framework"
+msgstr ""
+
+#: helpers/mobilemenuckview.php:16 views/mobilemenu/view.html.php:32
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas la permission d'accéder à cette page"
+
+#: interfaces.bak/ajaxcheckmodules.php:25
+#: views/template_/tmpl/ajaxcheckmodules.php:19
+msgid "CK_MODULEPOSITIONS_VALID"
+msgstr ""
+
+#: interfaces.bak/ajaxcheckmodules.php:29
+#: views/template_/tmpl/ajaxcheckmodules.php:23
+msgid "CK_MODULEPOSITIONS_ERROR"
+msgstr ""
+
+#: interfaces.bak/ajaxcheckmodules.php:52
+#: views/template_/tmpl/ajaxcheckmodules.php:41
+msgid "CK_NO_MODULES_IN_POSITION"
+msgstr ""
+
+#: interfaces.bak/ajaxcheckmodules.php:53
+msgid "CK_AUTO_PUBLISH_MODULE"
+msgstr ""
+
+#: interfaces.bak/ajaxcheckmodules.php:61
+#: views/template_/tmpl/ajaxcheckmodules.php:49
+msgid "CK_AUTO_PUBLISH_MODULES"
+msgstr ""
+
+#: interfaces.bak/ajaxcheckmodules.php:138
+#: interfaces.bak/ajaxcheckmodules.php:149
+#: views/template_/tmpl/ajaxcheckmodules.php:125
+#: views/template_/tmpl/ajaxcheckmodules.php:136
+msgid "CK_SAMPLE_MODULES_PUBLISHED_ERROR"
+msgstr ""
+
+#: interfaces.bak/ajaxcheckmodules.php:153
+#: views/template_/tmpl/ajaxcheckmodules.php:140
+msgid "CK_SAMPLE_MODULES_PUBLISHED_SUCCESS"
+msgstr ""
+
+#: interfaces.bak/ajaxcheckmodules.php:158
+#: views/template_/tmpl/ajaxcheckmodules.php:145
+msgid "CK_TRY_MODULES_MANAGER"
+msgstr ""
+
+#: interfaces.bak/ajaxcolorspalette.php:14
+#: views/template_/tmpl/ajaxcolorspalette.php:14
+msgid "CK_COLOR_PALETTE"
+msgstr ""
+
+#: interfaces.bak/ajaxcolorspalette.php:15
+#: views/template_/tmpl/ajaxcolorspalette.php:15
+msgid "CK_COLOR_PALETTE_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:13
+#: interfaces.bak/ajaxrowmanager.php:12 interfaces.bak/ajaxrowmanager.php:53
+#: interfaces/columnsmanager.php:13 views/template_/tmpl/ajaxrowmanager.php:15
+#: views/template_/tmpl/ajaxrowmanager.php:62
+msgid "CK_ROW_MANAGER"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:14
+#: interfaces.bak/ajaxlayoutarticle.php:16 interfaces.bak/ajaxlayoutblog.php:16
+#: interfaces.bak/ajaxlayoutcomments.php:27
+#: interfaces.bak/ajaxlayoutsearch.php:16 interfaces.bak/ajaxparams.php:16
+#: interfaces.bak/ajaxresponsive.php:25 interfaces.bak/ajaxstylescss.php:40
+#: interfaces/columnsmanager.php:14 interfaces/loaditemoptions.php:20
+#: interfaces/stylescss.php:39 views/template_/tmpl/edit_head.php:139
+#: assets/admin_bak.js:957 assets/admin_bak.js:2197 assets/admin_bak.js:2804
+#: assets/admin_bak.js:2827 assets/admin_bak.js:2896 assets/admin_bak.js:3720
+#: assets/admin_bak.js:3744 assets/admin_bak.js:3768 assets/admin_bak.js:3792
+#: assets/admin_bak.js:3825 assets/admin_bak.js:5508 assets/admin_bak.js:5901
+msgid "CK_SAVE_CLOSE"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:18 interfaces/columnsmanager.php:18
+msgid "CK_GUTTER"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:22 interfaces/columnsmanager.php:22
+msgid "CK_NUMBER_OF_COLUMNS"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:24
+#: interfaces.bak/ajaxrowmanager.php:27 interfaces/columnsmanager.php:24
+#: views/template_/tmpl/ajaxrowmanager.php:36
+msgid "1"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:25
+#: interfaces.bak/ajaxmodulesmanager.php:30
+#: interfaces.bak/ajaxrowmanager.php:30 interfaces/columnsmanager.php:25
+#: views/template_/tmpl/ajaxmodulesmanager.php:40
+#: views/template_/tmpl/ajaxrowmanager.php:39
+msgid "2"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:26
+#: interfaces.bak/ajaxmodulesmanager.php:33
+#: interfaces.bak/ajaxrowmanager.php:33 interfaces/columnsmanager.php:26
+#: views/template_/tmpl/ajaxmodulesmanager.php:43
+#: views/template_/tmpl/ajaxrowmanager.php:42
+msgid "3"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:27
+#: interfaces.bak/ajaxmodulesmanager.php:36
+#: interfaces.bak/ajaxrowmanager.php:36 interfaces/columnsmanager.php:27
+#: views/template_/tmpl/ajaxmodulesmanager.php:46
+#: views/template_/tmpl/ajaxrowmanager.php:45
+msgid "4"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:28
+#: interfaces.bak/ajaxmodulesmanager.php:39
+#: interfaces.bak/ajaxrowmanager.php:39 interfaces/columnsmanager.php:28
+#: views/template_/tmpl/ajaxmodulesmanager.php:49
+#: views/template_/tmpl/ajaxrowmanager.php:48
+msgid "5"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:29
+#: interfaces.bak/ajaxrowmanager.php:42 interfaces/columnsmanager.php:29
+#: views/template_/tmpl/ajaxrowmanager.php:51
+msgid "6"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:30
+#: interfaces.bak/ajaxrowmanager.php:45 interfaces/columnsmanager.php:30
+#: views/template_/tmpl/ajaxrowmanager.php:54
+msgid "7"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:31
+#: interfaces.bak/ajaxrowmanager.php:48 interfaces/columnsmanager.php:31
+#: views/template_/tmpl/ajaxrowmanager.php:57
+msgid "8"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:55 interfaces/columnsmanager.php:55
+msgid "CK_LOCK_UNLOCK"
+msgstr ""
+
+#: interfaces.bak/ajaxcolumnsmanager.php:67 interfaces/columnsmanager.php:67
+msgid "CK_CAN_NOT_LOCK_ALL_WIDTH"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:91
+msgid "CK_TEMPLATE_CREATION"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:96
+msgid "CK_ERROR_CREATING_FOLDER_PROJECTS"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:98
+msgid "CK_SUCCESS_CREATING_FOLDER_PROJECTS"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:112 models/mobilemenu.php:654
+#: views/template_/tmpl/_export.php:75 views/template_/tmpl/ajaxindex.php:122
+#: views/template_/tmpl/export.php:75
+msgid "CK_ERROR_COPY_GABARIT"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:114 models/mobilemenu.php:656
+#: views/template_/tmpl/_export.php:77 views/template_/tmpl/ajaxindex.php:124
+#: views/template_/tmpl/export.php:77
+msgid "CK_SUCCESS_COPY_GABARIT"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:123
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:137
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:170
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1977
+msgid "CK_ERROR_CREATING_FOLDER"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:125
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:139
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:172
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1979
+msgid "CK_SUCCESS_CREATING_FOLDER"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:147
+#: views/template_/tmpl/ajaxindex.php:166
+msgid "CK_ERROR_CREATING_FONTSAWESOMEFOLDER_PROJECTS"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:149
+#: views/template_/tmpl/ajaxindex.php:168
+msgid "CK_SUCCESS_CREATING_FONTSAWESOMEFOLDER_PROJECTS"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:159
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:187
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:196
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:205
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:461
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:744
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:779
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:838
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:846
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:862
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1529
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1538
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1546
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1969
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2230
+#: views/template_/tmpl/ajaxindex.php:524
+#: views/template_/tmpl/ajaxindex.php:755
+msgid "CK_ERROR_CREATING_FILE"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:161
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:189
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:198
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:207
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:463
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:746
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:781
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:840
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:848
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:864
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1531
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1540
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1548
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:1971
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2232
+#: views/template_/tmpl/ajaxindex.php:526
+#: views/template_/tmpl/ajaxindex.php:757
+msgid "CK_SUCCESS_CREATING_FILE"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:451
+#: views/template_/tmpl/ajaxindex.php:155
+#: views/template_/tmpl/ajaxindex.php:514
+msgid "CK_ERROR_CREATING_FOLDER_FONTS"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:453
+#: views/template_/tmpl/ajaxindex.php:157
+#: views/template_/tmpl/ajaxindex.php:516
+msgid "CK_SUCCESS_CREATING_FOLDER_FONTS"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2248 models/mobilemenu.php:724
+#: views/template_/tmpl/ajaxarchive.php:106
+msgid "CK_ERROR_CREATING_ARCHIVE"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2250 models/mobilemenu.php:726
+#: views/template_/tmpl/ajaxarchive.php:108
+msgid "CK_SUCCESS_CREATING_ARCHIVE"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2256
+#: views/template_/tmpl/ajaxarchive.php:114
+msgid "CK_DOWNLOAD_TEMPLATE"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2268
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2272
+msgid "CK_VIEW_WEBSITE"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2269
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2280
+#: views/template_/tmpl/ajaxarchive.php:72
+#: views/template_/tmpl/ajaxarchive.php:93
+msgid "CK_SUCCESS_CREATING_TEMPLATECOPY"
+msgstr ""
+
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2279
+#: interfaces.bak/ajaxcreatetemplatewordpress.php:2283
+#: views/template_/tmpl/ajaxpreview.php:20
+#: views/template_/tmpl/edit_head.php:101 assets/admin_bak.js:4183
+msgid "CK_PREVIEW_TEMPLATE"
+msgstr ""
+
+#: interfaces.bak/ajaxgfontsmanager.php:17
+msgid "CK_FONTS_MANAGER"
+msgstr ""
+
+#: interfaces.bak/ajaxgfontsmanager.php:18
+msgid "CK_FONTS_MANAGER_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxgfontsmanager.php:24
+msgid "CK_NO_GOOGLE_FONT_FOUND_IN_PAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxgfontsmanager.php:31 interfaces.bak/ajaxstylescss.php:50
+#: views/mobilemenu/tmpl/edit_favorites.php:110
+#: views/template_/tmpl/edit_favorite.php:70
+#: views/template_/tmpl/edit_favorites.php:114
+#: views/template_/tmpl/edit_head.php:137 assets/admin_bak.js:1530
+msgid "CK_DELETE"
+msgstr ""
+
+#: interfaces.bak/ajaxinstalltemplate.php:31
+msgid "COM_INSTALLER_MSG_INSTALL_PLEASE_ENTER_A_PACKAGE_DIRECTORY"
+msgstr ""
+
+#: interfaces.bak/ajaxinstalltemplate.php:42
+msgid "COM_INSTALLER_MSG_INSTALL_PATH_DOES_NOT_HAVE_A_VALID_PACKAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxinstalltemplate.php:56
+msgid "COM_INSTALLER_UNABLE_TO_FIND_INSTALL_PACKAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxinstalltemplate.php:67
+msgid "CK_INSTALL_TEMPLATE_ERROR"
+msgstr ""
+
+#: interfaces.bak/ajaxinstalltemplate.php:74
+msgid "CK_INSTALL_TEMPLATE_SUCCESS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:13 interfaces.bak/ajaxlayoutblog.php:13
+#: interfaces.bak/ajaxlayoutcomments.php:24
+#: interfaces.bak/ajaxlayoutsearch.php:13 interfaces.bak/ajaxmoduleslist.php:53
+#: interfaces.bak/ajaxstylescss.php:37 interfaces.bak/ajaxwidgetsmanager.php:51
+#: interfaces/loaditemoptions.php:17 interfaces/stylescss.php:36
+#: views/mobilemenu/tmpl/edit_favorites.php:109
+#: views/template_/tmpl/ajaxwidgetsmanager.php:59
+#: views/template_/tmpl/edit_favorite.php:69
+#: views/template_/tmpl/edit_favorites.php:113
+#: views/template_/tmpl/edit_head.php:136 assets/admin_bak.js:1529
+msgid "CK_EDIT"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:14
+#: interfaces.bak/ajaxlayoutarticle.php:63
+#: interfaces.bak/ajaxlayoutblog.php:102
+#: interfaces.bak/ajaxlayoutcomments.php:25
+msgid "CK_ARTICLE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:17 interfaces.bak/ajaxlayoutblog.php:17
+#: interfaces.bak/ajaxlayoutcomments.php:28
+#: interfaces.bak/ajaxlayoutsearch.php:17 interfaces.bak/ajaxparams.php:17
+#: interfaces.bak/ajaxstylescss.php:41 interfaces/loaditemoptions.php:21
+#: interfaces/stylescss.php:40
+msgid "CK_APPLY"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:21
+msgid "CK_LAYOUT_ARTICLE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:25
+#: interfaces.bak/ajaxlayoutarticle.php:67 interfaces.bak/ajaxlayoutblog.php:26
+#: interfaces.bak/ajaxlayoutblog.php:59 interfaces.bak/ajaxlayoutblog.php:106
+#: interfaces.bak/ajaxlayoutcomments.php:126
+#: interfaces.bak/ajaxmoduleslist.php:41
+#: views/template_/tmpl/ajaxlayoutcomments.php:43
+msgid "CK_TITLE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:71
+#: interfaces.bak/ajaxlayoutblog.php:110 assets/admin_bak.js:5767
+msgid "CK_DETAILS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:77
+#: interfaces.bak/ajaxlayoutarticle.php:97
+#: interfaces.bak/ajaxlayoutarticle.php:107
+#: interfaces.bak/ajaxlayoutarticle.php:117
+#: interfaces.bak/ajaxlayoutarticle.php:159
+#: interfaces.bak/ajaxlayoutarticle.php:169
+#: interfaces.bak/ajaxlayoutarticle.php:179
+#: interfaces.bak/ajaxlayoutarticle.php:189
+#: interfaces.bak/ajaxlayoutblog.php:116 interfaces.bak/ajaxlayoutblog.php:136
+#: interfaces.bak/ajaxlayoutblog.php:146 interfaces.bak/ajaxlayoutblog.php:156
+#: interfaces.bak/ajaxlayoutblog.php:198 interfaces.bak/ajaxlayoutblog.php:208
+#: interfaces.bak/ajaxlayoutblog.php:218 interfaces.bak/ajaxlayoutblog.php:228
+#: interfaces.bak/ajaxlayoutsearch.php:34
+#: interfaces.bak/ajaxlayoutsearch.php:48
+#: interfaces.bak/ajaxlayoutsearch.php:66 interfaces.bak/ajaxstylescss.php:83
+#: views/template_/tmpl/ajaxstylescss.php:82
+#: views/template_/tmpl/edit_wizard.php:40
+#: views/template_/tmpl/edit_wizard.php:52
+#: views/template_/tmpl/edit_wizard.php:62
+#: widgets/topfixedwrapper/topfixedwrapper.php:104
+msgid "JYES"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:78
+#: interfaces.bak/ajaxlayoutarticle.php:98
+#: interfaces.bak/ajaxlayoutarticle.php:108
+#: interfaces.bak/ajaxlayoutarticle.php:118
+#: interfaces.bak/ajaxlayoutarticle.php:160
+#: interfaces.bak/ajaxlayoutarticle.php:170
+#: interfaces.bak/ajaxlayoutarticle.php:180
+#: interfaces.bak/ajaxlayoutarticle.php:190
+#: interfaces.bak/ajaxlayoutblog.php:117 interfaces.bak/ajaxlayoutblog.php:137
+#: interfaces.bak/ajaxlayoutblog.php:147 interfaces.bak/ajaxlayoutblog.php:157
+#: interfaces.bak/ajaxlayoutblog.php:199 interfaces.bak/ajaxlayoutblog.php:209
+#: interfaces.bak/ajaxlayoutblog.php:219 interfaces.bak/ajaxlayoutblog.php:229
+#: interfaces.bak/ajaxlayoutsearch.php:35
+#: interfaces.bak/ajaxlayoutsearch.php:49
+#: interfaces.bak/ajaxlayoutsearch.php:67 interfaces.bak/ajaxstylescss.php:85
+#: views/template_/tmpl/ajaxstylescss.php:84
+#: views/template_/tmpl/edit_wizard.php:39
+#: views/template_/tmpl/edit_wizard.php:53
+#: views/template_/tmpl/edit_wizard.php:61
+#: widgets/topfixedwrapper/topfixedwrapper.php:103
+msgid "JNO"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:153
+#: interfaces.bak/ajaxlayoutblog.php:192
+msgid "CK_TOOLS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:218
+msgid "CK_TOOL"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:222
+msgid "CK_TOOL_HOVER"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:226
+#: interfaces.bak/ajaxlayoutblog.php:257
+msgid "CK_BODY"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:230
+#: interfaces.bak/ajaxlayoutblog.php:269
+msgid "CK_PAGINATION"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutarticle.php:234
+#: interfaces.bak/ajaxlayoutblog.php:273
+msgid "CK_PAGINATION_HOVER"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutblog.php:14
+msgid "CK_BLOG"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutblog.php:21
+msgid "CK_LAYOUT_BLOG"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutblog.php:55 interfaces.bak/ajaxlayoutblog.php:88
+#: interfaces.bak/ajaxlayoutblog.php:261 interfaces.bak/ajaxparams.php:82
+#: interfaces.bak/ajaxparams.php:86 views/template_/tmpl/ajaxparams.php:100
+#: views/template_/tmpl/ajaxparams.php:114
+#: views/template_/tmpl/ajaxparams.php:115
+msgid "CK_READMORE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutblog.php:265
+msgid "CK_READMORE_HOVER"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutblog.php:277
+msgid "CK_PAGINATION_COUNTER"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:32
+msgid "CK_LAYOUT_COMMENTS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:82
+#: views/mobilemenu/tmpl/edit_wizard.php:18
+#: views/template_/tmpl/ajaxlayoutcomments.php:40
+#: views/template_/tmpl/edit_wizard.php:18
+msgid "CK_OPTIONS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:117
+#: views/template_/tmpl/ajaxlayoutcomments.php:27
+#: views/template_/tmpl/ajaxlayoutcomments.php:41
+msgid "CK_COMMENTS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:121
+#: interfaces.bak/ajaxlayoutcomments.php:211
+#: views/template_/tmpl/ajaxlayoutcomments.php:42
+#: views/template_/tmpl/ajaxlayoutcomments.php:52
+msgid "CK_COMMENT"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:131
+#: views/template_/tmpl/ajaxlayoutcomments.php:44
+msgid "CK_AVATAR"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:136
+#: interfaces.bak/ajaxlayoutcomments.php:139
+#: interfaces.bak/ajaxlayoutcomments.php:144
+#: views/mobilemenu/tmpl/edit_globalinfos.php:54
+#: views/template_/tmpl/ajaxlayoutcomments.php:45
+#: views/template_/tmpl/ajaxlayoutcomments.php:103
+#: views/template_/tmpl/ajaxlayoutcomments.php:104
+#: views/template_/tmpl/edit_globalinfos.php:52 assets/admin_bak.js:5775
+msgid "CK_AUTHOR"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:139
+#: interfaces.bak/ajaxlayoutcomments.php:152
+#: interfaces.bak/ajaxlayoutcomments.php:165
+#: interfaces.bak/ajaxlayoutcomments.php:183
+#: interfaces.bak/ajaxlayoutcomments.php:196
+#: interfaces.bak/ajaxlayoutcomments.php:218 interfaces.bak/ajaxparams.php:82
+#: interfaces.bak/ajaxparams.php:90 interfaces.bak/ajaxparams.php:98
+#: interfaces.bak/ajaxparams.php:106 views/mobilemenu/tmpl/edit_wizard.php:201
+#: views/mobilemenu/tmpl/edit_wizard.php:236
+#: views/template_/tmpl/ajaxlayoutcomments.php:103
+#: views/template_/tmpl/ajaxlayoutcomments.php:114
+#: views/template_/tmpl/ajaxlayoutcomments.php:125
+#: views/template_/tmpl/ajaxlayoutcomments.php:139
+#: views/template_/tmpl/ajaxlayoutcomments.php:150
+#: views/template_/tmpl/ajaxlayoutcomments.php:167
+#: views/template_/tmpl/ajaxparams.php:114
+#: views/template_/tmpl/ajaxparams.php:125
+#: views/template_/tmpl/ajaxparams.php:136
+#: views/template_/tmpl/ajaxparams.php:138
+#: views/template_/tmpl/edit_wizard.php:195
+#: views/template_/tmpl/edit_wizard.php:230
+msgid "CK_NORMALSTATE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:144
+#: interfaces.bak/ajaxlayoutcomments.php:157
+#: interfaces.bak/ajaxlayoutcomments.php:170
+#: interfaces.bak/ajaxlayoutcomments.php:188
+#: interfaces.bak/ajaxlayoutcomments.php:201
+#: interfaces.bak/ajaxlayoutcomments.php:222 interfaces.bak/ajaxparams.php:86
+#: interfaces.bak/ajaxparams.php:94 interfaces.bak/ajaxparams.php:102
+#: views/mobilemenu/tmpl/edit_wizard.php:223
+#: views/template_/tmpl/ajaxlayoutcomments.php:104
+#: views/template_/tmpl/ajaxlayoutcomments.php:115
+#: views/template_/tmpl/ajaxlayoutcomments.php:126
+#: views/template_/tmpl/ajaxlayoutcomments.php:140
+#: views/template_/tmpl/ajaxlayoutcomments.php:151
+#: views/template_/tmpl/ajaxlayoutcomments.php:168
+#: views/template_/tmpl/ajaxparams.php:115
+#: views/template_/tmpl/ajaxparams.php:126
+#: views/template_/tmpl/ajaxparams.php:137
+#: views/template_/tmpl/edit_wizard.php:217
+msgid "CK_HOVERSTATE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:149
+#: interfaces.bak/ajaxlayoutcomments.php:152
+#: interfaces.bak/ajaxlayoutcomments.php:157
+#: views/template_/tmpl/ajaxlayoutcomments.php:46
+#: views/template_/tmpl/ajaxlayoutcomments.php:114
+#: views/template_/tmpl/ajaxlayoutcomments.php:115
+msgid "CK_DATE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:162
+#: interfaces.bak/ajaxlayoutcomments.php:165
+#: interfaces.bak/ajaxlayoutcomments.php:170
+#: views/template_/tmpl/ajaxlayoutcomments.php:47
+#: views/template_/tmpl/ajaxlayoutcomments.php:125
+#: views/template_/tmpl/ajaxlayoutcomments.php:126
+msgid "CK_EDIT_LINK"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:180
+#: interfaces.bak/ajaxlayoutcomments.php:183
+#: interfaces.bak/ajaxlayoutcomments.php:188
+#: views/template_/tmpl/ajaxlayoutcomments.php:49
+#: views/template_/tmpl/ajaxlayoutcomments.php:139
+#: views/template_/tmpl/ajaxlayoutcomments.php:140
+msgid "CK_REPLY_LINK"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:193
+#: interfaces.bak/ajaxlayoutcomments.php:196
+#: interfaces.bak/ajaxlayoutcomments.php:201
+#: views/template_/tmpl/ajaxlayoutcomments.php:50
+#: views/template_/tmpl/ajaxlayoutcomments.php:150
+#: views/template_/tmpl/ajaxlayoutcomments.php:151
+msgid "CK_LOGGEDIN_AS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:206
+#: views/template_/tmpl/ajaxlayoutcomments.php:51
+msgid "CK_COMMENT_LABEL"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutcomments.php:216
+#: interfaces.bak/ajaxlayoutcomments.php:218
+#: interfaces.bak/ajaxlayoutcomments.php:222
+#: views/template_/tmpl/ajaxlayoutcomments.php:53
+#: views/template_/tmpl/ajaxlayoutcomments.php:167
+#: views/template_/tmpl/ajaxlayoutcomments.php:168
+msgid "CK_SUBMIT"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:21
+#: views/template_/tmpl/__ajaxlayouts.php:27
+#: views/template_/tmpl/ajaxlayoutcomments.php:27
+#: views/template_/tmpl/ajaxlayouterror404.php:24
+msgid "CK_LAYOUT_EDIT"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:21
+#: views/template_/tmpl/ajaxlayouterror404.php:24
+#: views/template_/tmpl/edit_mainmenu.php:82
+msgid "CK_ERROR_404"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:25
+#: views/template_/tmpl/ajaxlayouterror404.php:34
+msgid "CK_USE_CUSTOM_ERROR404"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:33
+#: views/template_/tmpl/ajaxlayouterror404.php:42
+msgid "CK_USE_CUSTOM_ERROR404_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:39
+#: views/template_/tmpl/ajaxlayouterror404.php:48
+msgid "CK_CODE_IN_CONTENT"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:47
+#: views/template_/tmpl/ajaxlayouterror404.php:56
+msgid "CK_CODE_IN_CONTENT_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:50
+#: interfaces.bak/ajaxlayouterror404.php:66
+#: views/template_/tmpl/ajaxlayouterror404.php:59
+#: views/template_/tmpl/ajaxlayouterror404.php:75
+msgid "CK_CODE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:63
+#: views/template_/tmpl/ajaxlayouterror404.php:72
+msgid "CK_DEFAULT_TAGS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:64
+#: views/template_/tmpl/ajaxlayouterror404.php:73
+msgid "CK_DEFAULT_TAGS_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:66
+#: interfaces.bak/ajaxmoduleselect.php:64
+#: views/mobilemenu/tmpl/edit_globalinfos.php:96
+#: views/template_/tmpl/ajaxlayouterror404.php:75
+#: views/template_/tmpl/edit_globalinfos.php:94 assets/admin_bak.js:5774
+msgid "CK_DESCRIPTION"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:67
+#: views/template_/tmpl/ajaxlayouterror404.php:76
+msgid "CK_ERROR404_ERROR_REQUEST"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:68
+#: views/template_/tmpl/ajaxlayouterror404.php:77
+msgid "CK_ERROR404_SEARCH_FIELD"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:69
+#: views/template_/tmpl/ajaxlayouterror404.php:78
+msgid "CK_ERROR404_GO_HOME"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:70
+#: views/template_/tmpl/ajaxlayouterror404.php:79
+msgid "CK_ERROR404_ERROR_MESSAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:71
+#: views/template_/tmpl/ajaxlayouterror404.php:80
+msgid "CK_ERROR404_ERROR_CODE"
+msgstr ""
+
+#: interfaces.bak/ajaxlayouterror404.php:72
+#: views/template_/tmpl/ajaxlayouterror404.php:81
+msgid "CK_ERROR404_CONTACT_ADMINISTRATOR"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutsearch.php:14 views/_fontselect/tmpl/default.php:44
+msgid "CK_SEARCH"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutsearch.php:21
+msgid "CK_LAYOUT_SEARCH"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutsearch.php:28
+msgid "CK_LABEL"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutsearch.php:42
+msgid "CK_FIELD"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutsearch.php:56
+msgid "CK_FIELD_FOCUS"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutsearch.php:60 interfaces.bak/ajaxparams.php:98
+#: interfaces.bak/ajaxparams.php:102 views/mobilemenu/tmpl/edit_wizard.php:201
+#: views/mobilemenu/tmpl/edit_wizard.php:223
+#: views/template_/tmpl/ajaxparams.php:136
+#: views/template_/tmpl/ajaxparams.php:137
+#: views/template_/tmpl/edit_wizard.php:195
+#: views/template_/tmpl/edit_wizard.php:217
+msgid "CK_BUTTON"
+msgstr ""
+
+#: interfaces.bak/ajaxlayoutsearch.php:88
+msgid "CK_BUTTON_HOVER"
+msgstr ""
+
+#: interfaces.bak/ajaxmaincontentmanager.php:12
+#: views/template_/tmpl/ajaxmaincontentmanager.php:16
+msgid "CK_MAINCONTENT_EDIT"
+msgstr ""
+
+#: interfaces.bak/ajaxmaincontentmanager.php:17
+#: views/template_/tmpl/ajaxmaincontentmanager.php:27
+msgid "CK_MAINCONTENT_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxmaincontentmanager.php:18
+#: views/template_/tmpl/ajaxmaincontentmanager.php:28
+msgid "CK_MAINCONTENT_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxmaincontentmanager.php:23
+#: views/template_/tmpl/ajaxmaincontentmanager.php:33
+msgid "CK_MAINCONTENT"
+msgstr ""
+
+#: interfaces.bak/ajaxmaincontentmanager.php:87
+#: views/template_/tmpl/ajaxmaincontentmanager.php:97
+msgid "CK_LEFTCOLUMN_WIDTH"
+msgstr ""
+
+#: interfaces.bak/ajaxmaincontentmanager.php:94
+#: views/template_/tmpl/ajaxmaincontentmanager.php:104
+msgid "CK_MAINCOLUMN_WIDTH"
+msgstr ""
+
+#: interfaces.bak/ajaxmaincontentmanager.php:101
+#: views/template_/tmpl/ajaxmaincontentmanager.php:111
+msgid "CK_RIGHTCOLUMN_WIDTH"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleselect.php:53
+msgid "COM_MODULES_NODESCRIPTION"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleselect.php:59
+msgid "CK_MODULES_SELECT"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleselect.php:63
+msgid "CK_TYPE"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleselect.php:65 interfaces.bak/ajaxmoduleslist.php:42
+#: widgets/topfixedwrapper/topfixedwrapper.php:82
+msgid "CK_ACTION"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleselect.php:73
+#: interfaces.bak/ajaxmoduleselect.php:74
+msgid "string.truncate"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleselect.php:79
+msgid "CK_CREATE"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleslist.php:35
+msgid "CK_MODULES_LIST"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleslist.php:37
+msgid "CK_CREATE_NEW"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleslist.php:43
+#: widgets/parallaxbackground/parallaxbackground.php:101
+msgid "CK_STATE"
+msgstr ""
+
+#: interfaces.bak/ajaxmoduleslist.php:54 views/template_/tmpl/edit_head.php:144
+msgid "CK_TOGGLE_STATE"
+msgstr ""
+
+#: interfaces.bak/ajaxmodulesmanager.php:15
+#: views/template_/tmpl/ajaxmodulesmanager.php:19
+msgid "CK_MODULES_MANAGER"
+msgstr ""
+
+#: interfaces.bak/ajaxmodulesmanager.php:20
+#: views/template_/tmpl/ajaxmodulesmanager.php:30
+msgid "CK_MODULESMANAGER_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxmodulesmanager.php:21
+#: views/template_/tmpl/ajaxmodulesmanager.php:31
+msgid "CK_MODULESMANAGER_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxmodulesmanager.php:28
+#: interfaces.bak/ajaxrowmanager.php:25
+#: views/template_/tmpl/ajaxmodulesmanager.php:38
+#: views/template_/tmpl/ajaxrowmanager.php:34
+msgid "CK_NUMBEROFMODULES"
+msgstr ""
+
+#: interfaces.bak/ajaxmodulesmanager.php:44
+#: views/template_/tmpl/ajaxmodulesmanager.php:54
+msgid "CK_MODULESMANAGER"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:15 views/template_/tmpl/ajaxparams.php:21
+msgid "CK_PARAMS_EDIT"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:21 interfaces.bak/ajaxparams.php:41
+#: views/template_/tmpl/ajaxparams.php:29
+#: views/template_/tmpl/edit_mainmenu.php:35
+#: views/template_/tmpl/edit_paramsbuttons.php:15
+msgid "CK_PAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:22 interfaces.bak/ajaxparams.php:50
+#: views/mobilemenu/tmpl/edit_wizard.php:140
+#: views/template_/tmpl/ajaxparams.php:30
+#: views/template_/tmpl/edit_mainmenu.php:36
+#: views/template_/tmpl/edit_paramsbuttons.php:17
+#: views/template_/tmpl/edit_wizard.php:134
+msgid "CK_TITLES"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:23 interfaces.bak/ajaxparams.php:81
+#: views/mobilemenu/tmpl/edit_wizard.php:200
+#: views/template_/tmpl/ajaxparams.php:31
+#: views/template_/tmpl/edit_mainmenu.php:37
+#: views/template_/tmpl/edit_paramsbuttons.php:19
+#: views/template_/tmpl/edit_wizard.php:194
+msgid "CK_BUTTONS_AND_FORMS"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:24 interfaces.bak/ajaxparams.php:117
+#: views/template_/tmpl/ajaxparams.php:32
+#: views/template_/tmpl/edit_mainmenu.php:38
+#: views/template_/tmpl/edit_paramsbuttons.php:21
+msgid "CK_CONTENT"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:25 interfaces.bak/ajaxparams.php:132
+#: views/template_/tmpl/ajaxparams.php:34
+#: views/template_/tmpl/edit_mainmenu.php:39
+#: views/template_/tmpl/edit_paramsbuttons.php:23
+msgid "CK_TABLE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:26 interfaces.bak/ajaxparams.php:217
+#: views/template_/tmpl/ajaxparams.php:33
+#: views/template_/tmpl/edit_mainmenu.php:40
+msgid "CK_SYSTEMIMAGES"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:28 interfaces.bak/ajaxparams.php:253
+#: views/template_/tmpl/edit_mainmenu.php:41
+msgid "CK_CUSTOMIMAGES"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:30 views/template_/tmpl/ajaxparams.php:35
+#: views/template_/tmpl/edit_mainmenu.php:42
+msgid "CK_CUSTOMCODE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:33 views/template_/tmpl/ajaxparams.php:37
+msgid "CK_CUSTOMJS"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:34 views/template_/tmpl/ajaxparams.php:38
+msgid "CK_CUSTOMFUNCTIONS"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:39 views/mobilemenu/tmpl/edit_favorites.php:27
+#: views/template_/tmpl/edit_favorites.php:29
+#: views/template_/tmpl/edit_leftpanel.php:35
+#: views/template_/tmpl/edit_leftpanel.php:43
+msgid "CK_BACK"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:43
+msgid "CK_VIDEO_BACKGROUND"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:51 views/template_/tmpl/ajaxparams.php:60
+msgid "CK_H1"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:55 views/template_/tmpl/ajaxparams.php:61
+msgid "CK_H2"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:59 views/template_/tmpl/ajaxparams.php:62
+msgid "CK_H3"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:63 views/template_/tmpl/ajaxparams.php:63
+msgid "CK_H4"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:67 views/template_/tmpl/ajaxparams.php:64
+msgid "CK_H5"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:71 views/template_/tmpl/ajaxparams.php:65
+msgid "CK_H6"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:90 interfaces.bak/ajaxparams.php:94
+#: views/template_/tmpl/ajaxparams.php:101
+#: views/template_/tmpl/ajaxparams.php:125
+#: views/template_/tmpl/ajaxparams.php:126
+msgid "CK_PAGENAV"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:106 interfaces.bak/ajaxparams.php:110
+#: views/mobilemenu/tmpl/edit_wizard.php:236
+#: views/mobilemenu/tmpl/edit_wizard.php:270
+#: views/template_/tmpl/ajaxparams.php:138
+#: views/template_/tmpl/ajaxparams.php:139
+#: views/template_/tmpl/edit_wizard.php:230
+#: views/template_/tmpl/edit_wizard.php:264
+msgid "CK_INPUTFIELD"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:110 views/mobilemenu/tmpl/edit_wizard.php:270
+#: views/template_/tmpl/ajaxparams.php:139
+#: views/template_/tmpl/edit_wizard.php:264
+msgid "CK_FOCUSSTATE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:118 views/template_/tmpl/ajaxparams.php:160
+#: views/template_/tmpl/ajaxparams.php:325
+msgid "CK_BULLET_LIST"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:124
+msgid "CK_ARTICLE_DETAILS"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:138 interfaces.bak/ajaxparams.php:148
+#: interfaces.bak/ajaxparams.php:198 views/template_/tmpl/ajaxparams.php:214
+#: views/template_/tmpl/ajaxparams.php:222
+#: views/template_/tmpl/ajaxparams.php:273
+msgid "CK_TABLE_NONE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:139 interfaces.bak/ajaxparams.php:202
+#: views/template_/tmpl/ajaxparams.php:215
+#: views/template_/tmpl/ajaxparams.php:277
+msgid "CK_TABLE_SIMPLE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:140 interfaces.bak/ajaxparams.php:206
+#: views/template_/tmpl/ajaxparams.php:216
+#: views/template_/tmpl/ajaxparams.php:281
+msgid "CK_TABLE_BORDERED"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:149 interfaces.bak/ajaxparams.php:210
+#: views/template_/tmpl/ajaxparams.php:223
+#: views/template_/tmpl/ajaxparams.php:285
+msgid "CK_TABLE_STRIPED"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:150 views/template_/tmpl/ajaxparams.php:224
+msgid "CK_TABLE_HOVER"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:151 views/template_/tmpl/ajaxparams.php:225
+msgid "CK_TABLE_STRIPEDHOVER"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:196 views/template_/tmpl/ajaxparams.php:271
+msgid "CK_TABLE_EXAMPLES"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:220
+msgid "CK_EMAIL_IMAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:224
+msgid "CK_PRINT_IMAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:228
+msgid "CK_EDIT_IMAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:232
+msgid "CK_ARROW_IMAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:237 views/template_/tmpl/ajaxparams.php:192
+msgid "CK_FAVICON_IMAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:242
+msgid "CK_THUMB_IMAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxparams.php:247 views/template_/tmpl/ajaxparams.php:195
+msgid "CK_PREVIEW_IMAGE"
+msgstr ""
+
+#: interfaces.bak/ajaxprintpositions.php:13
+#: views/template_/tmpl/ajaxprintpositions.php:18
+msgid "CK_PRINTPOSITIONS_EDIT"
+msgstr ""
+
+#: interfaces.bak/ajaxprintpositions.php:18
+#: views/template_/tmpl/ajaxprintpositions.php:28
+msgid "CK_PRINTPOSITIONS_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxprintpositions.php:19
+#: views/template_/tmpl/ajaxprintpositions.php:29
+msgid "CK_PRINTPOSITIONS_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxremovefavorite.php:16
+#: views/template_/tmpl/ajaxremovefavorite.php:18
+msgid "CK_ERROR_DELETING_FAVORITEFILE"
+msgstr ""
+
+#: interfaces.bak/ajaxrenamefavorite.php:28
+#: interfaces.bak/ajaxsavefavorite.php:37
+#: views/template_/tmpl/ajaxsavefavorite.php:39
+msgid "CK_ERROR_CREATING_FAVORITEFILE"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:24 interfaces.bak/ajaxresponsive.php:85
+#: views/template_/tmpl/ajaxresponsive.php:69
+msgid "CK_RESPONSIVE"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:27
+msgid "CK_RESPONSIVE_DESC2"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:31 interfaces.bak/ajaxresponsive.php:35
+msgid "CK_PHONE"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:31 interfaces.bak/ajaxresponsive.php:39
+msgid "CK_PORTRAIT"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:35 interfaces.bak/ajaxresponsive.php:43
+msgid "CK_LANDSCAPE"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:39 interfaces.bak/ajaxresponsive.php:43
+msgid "CK_TABLET"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:47
+msgid "CK_COMPUTER"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:55
+#: views/template_/tmpl/ajaxresponsive.php:57
+msgid "CK_RESPONSIVE_BETWEEN"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:56
+#: views/template_/tmpl/ajaxresponsive.php:58
+msgid "CK_RESPONSIVE_REDUCING"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:59
+#: views/template_/tmpl/ajaxresponsive.php:61
+msgid "CK_RESPONSIVE_RANGE_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:67
+msgid "CK_RESPONSIVE_MINI_VALUE_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:73
+msgid "CK_CUSTOMCSS_RESPONSIVE"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:76
+#: views/mobilemenu/tmpl/edit_favorites.php:15
+#: views/template_/tmpl/ajaxwidgetsmanager.php:22
+#: views/template_/tmpl/edit_favorites.php:17
+#: views/template_/tmpl/edit_mainmenu.php:88
+msgid "CK_CLOSE"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:77
+msgid "CK_CUSTOM_CSS_RESPONSIVE_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:161
+#: views/template_/tmpl/ajaxresponsive.php:145
+msgid "CK_CUSTOMCSS_RESPONSIVE_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxresponsive.php:237
+#: views/template_/tmpl/ajaxresponsive.php:220
+msgid "CK_RESPONSIVE_VALUE_SHALL_BE_BETWEEN"
+msgstr ""
+
+#: interfaces.bak/ajaxrowmanager.php:17
+#: views/template_/tmpl/ajaxrowmanager.php:26
+msgid "CK_ROW_MANAGER_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxrowmanager.php:18
+#: views/template_/tmpl/ajaxrowmanager.php:27
+msgid "CK_ROW_MANAGER_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxsavecustomcode.php:21
+#: interfaces.bak/ajaxsavecustomcode.php:28
+#: views/template_/tmpl/ajaxsavecustomcode.php:21
+#: views/template_/tmpl/ajaxsavecustomcode.php:29
+msgid "CK_CUSTOMCODE_SAVE_SUCCESS"
+msgstr ""
+
+#: interfaces.bak/ajaxsavecustomcode.php:23
+#: interfaces.bak/ajaxsavecustomcode.php:30
+#: views/template_/tmpl/ajaxsavecustomcode.php:23
+#: views/template_/tmpl/ajaxsavecustomcode.php:31
+msgid "CK_CUSTOMCODE_SAVE_FAILED"
+msgstr ""
+
+#: interfaces.bak/ajaxsavecustomcss.php:19
+#: interfaces.bak/ajaxsavecustomfunctions.php:19
+#: interfaces.bak/ajaxsavecustomjs.php:19
+#: views/template_/tmpl/ajaxsavecustomcss.php:19
+msgid "CK_CUSTOMCSS_SAVE_SUCCESS"
+msgstr ""
+
+#: interfaces.bak/ajaxsavecustomcss.php:21
+#: interfaces.bak/ajaxsavecustomfunctions.php:21
+#: interfaces.bak/ajaxsavecustomjs.php:21
+#: views/template_/tmpl/ajaxsavecustomcss.php:21
+msgid "CK_CUSTOMCSS_SAVE_FAILED"
+msgstr ""
+
+#: interfaces.bak/ajaxsavetheme.php:20 interfaces.bak/export.php:36
+#: views/template_/tmpl/ajaxsavetheme.php:23
+msgid "CK_ERROR_CREATING_EXPORTFILE"
+msgstr ""
+
+#: interfaces.bak/ajaxsavetheme.php:22 interfaces.bak/export.php:38
+#: views/template_/tmpl/ajaxsavetheme.php:25
+msgid "CK_SUCCESS_CREATING_EXPORTFILE"
+msgstr ""
+
+#: interfaces.bak/ajaxsavetheme.php:27
+#: views/template_/tmpl/ajaxsavetheme.php:30
+msgid "CK_DOWNLOAD_THEME"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:43 interfaces/loaditemoptions.php:22
+#: interfaces/stylescss.php:42
+msgid "CK_PASTE_CSS"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:44 interfaces/loaditemoptions.php:23
+#: interfaces/stylescss.php:43
+msgid "CK_COPY_CSS"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:54
+msgid "CK_STYLE_NAME_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:60
+msgid "CK_CSS_SELECTOR_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:69
+#: views/template_/tmpl/ajaxstylescss.php:47
+msgid "CK_LOGO_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:74
+#: views/template_/tmpl/ajaxstylescss.php:48
+msgid "CK_LOGODESC_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:79
+#: views/template_/tmpl/ajaxstylescss.php:78
+msgid "CK_USE_LOGODESC"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:93
+#: views/template_/tmpl/ajaxstylescss.php:89
+msgid "CK_LOGODESC_TEXT"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:106 interfaces/stylescss.php:48
+#: views/template_/tmpl/ajaxstylescss.php:103
+msgid "CK_WRAPPER_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:106 interfaces/stylescss.php:48
+#: views/template_/tmpl/ajaxstylescss.php:103
+msgid "CK_BLOCK_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:107 interfaces/stylescss.php:49
+#: views/template_/tmpl/ajaxstylescss.php:104
+msgid "CK_WRAPPER_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:107 interfaces/stylescss.php:49
+#: views/template_/tmpl/ajaxstylescss.php:104
+msgid "CK_BLOC_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:108 interfaces/stylescss.php:50
+#: views/template_/tmpl/ajaxstylescss.php:105
+msgid "CK_WRAPPER_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:108 interfaces/stylescss.php:50
+#: views/template_/tmpl/ajaxstylescss.php:105
+msgid "CK_BLOC_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:113 interfaces/stylescss.php:55
+#: views/template_/tmpl/ajaxstylescss.php:108
+msgid "CK_BODY_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:126
+#: views/template_/tmpl/ajaxstylescss.php:112
+msgid "CK_MODULES_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:133
+msgid "CK_MODULES_TITLE_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:138
+msgid "CK_MODULES_TEXT_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:144
+#: views/template_/tmpl/ajaxstylescss.php:121
+msgid "CK_ICON_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:151
+#: views/template_/tmpl/ajaxstylescss.php:117
+msgid "CK_MENUS_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxstylescss.php:157 interfaces/stylescss.php:72
+#: views/template_/tmpl/ajaxstylescss.php:124
+msgid "CK_VIDEO_BACKGROUND_STYLES"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomcode.php:50
+#: views/template_/tmpl/ajaxtabcustomcode.php:49
+msgid "CK_PAGECUSTOMCODE_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomcode.php:51
+#: views/template_/tmpl/ajaxtabcustomcode.php:50
+msgid "CK_PAGECUSTOMCODE_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomcode.php:52
+#: views/template_/tmpl/ajaxtabcustomcode.php:54
+msgid "CK_CUSTOMCODE_IN_HEAD"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomcode.php:54
+#: views/template_/tmpl/ajaxtabcustomcode.php:56
+msgid "CK_CUSTOMCODE_END_BODY"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomcss.php:34
+#: views/template_/tmpl/ajaxtabcustomcss.php:36
+msgid "CK_PAGECUSTOMCSS_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomcss.php:35
+msgid "CK_PAGECUSTOMCSS_DESC2"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomfunctions.php:30
+#: views/template_/tmpl/ajaxtabcustomfunctions.php:34
+msgid "CK_PAGECUSTOMFUNCTIONS_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomfunctions.php:31
+#: views/template_/tmpl/ajaxtabcustomfunctions.php:35
+msgid "CK_PAGECUSTOMFUNCTIONS_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomjs.php:32
+#: views/template_/tmpl/_ajaxtab404page.php:36
+#: views/template_/tmpl/ajaxtab404page.php:36
+#: views/template_/tmpl/ajaxtabcustomjs.php:36
+msgid "CK_PAGECUSTOMJS_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxtabcustomjs.php:33
+#: views/template_/tmpl/_ajaxtab404page.php:37
+#: views/template_/tmpl/ajaxtab404page.php:37
+#: views/template_/tmpl/ajaxtabcustomjs.php:37
+msgid "CK_PAGECUSTOMJS_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:16
+#: views/template_/tmpl/ajaxtabmenustyles.php:18
+msgid "CK_FIRST_LEVEL_MENULINK"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:16
+#: interfaces.bak/ajaxtabmenustyles.php:20
+#: interfaces.bak/ajaxtabmenustyles.php:24
+#: views/template_/tmpl/ajaxtabmenustyles.php:18
+#: views/template_/tmpl/ajaxtabmenustyles.php:19
+#: views/template_/tmpl/ajaxtabmenustyles.php:20
+msgid "CK_FIRST_LEVEL"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:20
+#: views/template_/tmpl/ajaxtabmenustyles.php:19
+msgid "CK_FIRST_LEVEL_MENULINK_HOVER"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:24
+#: views/template_/tmpl/ajaxtabmenustyles.php:20
+msgid "CK_FIRST_LEVEL_MENULINK_ACTIVE"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:28
+#: views/template_/tmpl/ajaxtabmenustyles.php:21
+msgid "CK_FIRST_SUBLEVEL_CONTAINER"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:28
+#: interfaces.bak/ajaxtabmenustyles.php:32
+#: interfaces.bak/ajaxtabmenustyles.php:36
+#: interfaces.bak/ajaxtabmenustyles.php:40
+#: views/template_/tmpl/ajaxtabmenustyles.php:21
+#: views/template_/tmpl/ajaxtabmenustyles.php:22
+#: views/template_/tmpl/ajaxtabmenustyles.php:23
+#: views/template_/tmpl/ajaxtabmenustyles.php:24
+msgid "CK_FIRST_SUBLEVEL"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:32
+#: views/template_/tmpl/ajaxtabmenustyles.php:22
+msgid "CK_FIRST_SUBLEVEL_MENULINK"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:36
+#: views/template_/tmpl/ajaxtabmenustyles.php:23
+msgid "CK_FIRST_SUBLEVEL_MENULINK_HOVER"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:40
+#: views/template_/tmpl/ajaxtabmenustyles.php:24
+msgid "CK_FIRST_SBULEVEL_MENULINK_ACTIVE"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:44
+#: views/template_/tmpl/ajaxtabmenustyles.php:25
+msgid "CK_SECOND_SUBLEVEL_CONTAINER"
+msgstr ""
+
+#: interfaces.bak/ajaxtabmenustyles.php:44
+#: views/template_/tmpl/ajaxtabmenustyles.php:25
+msgid "CK_SECOND_SUBLEVEL"
+msgstr ""
+
+#: interfaces.bak/ajaxuploadimage.php:18
+#: views/template_/tmpl/ajaxuploadimage.php:18
+msgid "CK_NO_FILE_RECEIVED"
+msgstr ""
+
+#: interfaces.bak/ajaxuploadimage.php:37 models/mobilemenu.php:463
+#: views/template_/tmpl/ajaxuploadimage.php:37
+msgid "CK_FILE_NOT_EXISTS"
+msgstr ""
+
+#: interfaces.bak/ajaxuploadimage.php:52
+#: views/template_/tmpl/ajaxuploadimage.php:52
+msgid "CK_UNABLE_WRITE_FILE"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:17
+#: views/template_/tmpl/ajaxwidgetsmanager.php:20
+msgid "CK_WIDGETSMANAGER"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:22
+#: views/template_/tmpl/ajaxwidgetsmanager.php:30
+msgid "CK_WIDGETSMANAGER_INFOS"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:23
+#: views/template_/tmpl/ajaxwidgetsmanager.php:31
+msgid "CK_WIDGETSMANAGER_DESC"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:46
+#: interfaces.bak/ajaxwidgetsmanager.php:70 interfaces.bak/install.php:37
+#: views/mobilemenus/tmpl/default.php:108 views/template_/tmpl/_install.php:37
+#: views/template_/tmpl/ajaxwidgetsmanager.php:54
+#: views/template_/tmpl/ajaxwidgetsmanager.php:78
+#: views/template_/tmpl/install.php:37
+msgid "CK_INSTALL"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:47
+#: views/template_/tmpl/ajaxwidgetsmanager.php:55
+msgid "CK_UPDATE"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:48
+#: views/template_/tmpl/ajaxwidgetsmanager.php:56
+msgid "CK_ENABLE"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:49
+#: views/template_/tmpl/ajaxwidgetsmanager.php:57
+msgid "CK_DISABLE"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:60
+#: views/template_/tmpl/ajaxwidgetsmanager.php:68
+msgid "CK_WIDGET_MANUAL_DOWNLOAD"
+msgstr ""
+
+#: interfaces.bak/ajaxwidgetsmanager.php:61
+#: views/template_/tmpl/ajaxwidgetsmanager.php:69
+msgid "CK_WIDGET_MANUAL_DOWNLOAD_DESC"
+msgstr ""
+
+#: interfaces.bak/export.php:11 views/template_/tmpl/_export.php:14
+#: views/template_/tmpl/export.php:14
+#, fuzzy
+#| msgid "Styles"
+msgid "stylesheet"
+msgstr "Styles"
+
+#: interfaces.bak/export.php:32 interfaces.bak/install.php:24
+#: views/template_/tmpl/_export.php:98 views/template_/tmpl/_install.php:24
+#: views/template_/tmpl/export.php:98 views/template_/tmpl/install.php:24
+msgid "index.php"
+msgstr ""
+
+#: interfaces.bak/export.php:43 models/mobilemenu.php:735
+#: views/template_/tmpl/_export.php:102 views/template_/tmpl/export.php:102
+msgid "CK_DOWNLOAD_GABARIT"
+msgstr ""
+
+#: interfaces.bak/install.php:27 views/mobilemenus/tmpl/default.php:95
+#: views/template_/tmpl/_install.php:27 views/template_/tmpl/install.php:27
+msgid "CK_INSTALL_GABARIT"
+msgstr ""
+
+#: interfaces.bak/install.php:32 views/mobilemenus/tmpl/default.php:103
+#: views/template_/tmpl/_install.php:32 views/template_/tmpl/install.php:32
+msgid "CK_CHOOSE_FILE_CK"
+msgstr ""
+
+#: interfaces/itemsselection.php:14 views/mobilemenu/tmpl/edit_modeles.php:32
+#, fuzzy
+#| msgid "List View"
+msgid "List of items"
+msgstr "Vue en liste"
+
+#: interfaces/itemsselection.php:15 views/mobilemenu/tmpl/edit_modeles.php:33
+msgid "Choose an item and click on it to create a new shorcode"
+msgstr ""
+
+#: interfaces/stylescss.php:67
+msgid "CK_ANIMATIONS"
+msgstr ""
+
+#: interfaces/stylescss.php:84
+msgid "CK_DIVIDER"
+msgstr ""
+
+#: models/mobilemenu.php:419
+msgid "CK_FILE_NOT_UPLOADED_BY_SERVER"
+msgstr ""
+
+#: models/mobilemenu.php:431 models/mobilemenu.php:440
+msgid "CK_NOT_CK3_AND_NOT_CK3Z_FILE"
+msgstr ""
+
+#: models/mobilemenu.php:472
+msgid "CK_UNABLE_READ_FILE"
+msgstr ""
+
+#: models/mobilemenu.php:626 views/template_/tmpl/_export.php:57
+#: views/template_/tmpl/export.php:57
+msgid "CK_ERROR_COPY_IMAGE"
+msgstr ""
+
+#: models/mobilemenu.php:628 views/template_/tmpl/_export.php:59
+#: views/template_/tmpl/export.php:59
+msgid "CK_SUCCESS_COPY_IMAGE"
+msgstr ""
+
+#: models/mobilemenu.php:646 views/template_/tmpl/_export.php:67
+#: views/template_/tmpl/export.php:67
+msgid "CK_ERROR_CREATE_GABARIT"
+msgstr ""
+
+#: models/mobilemenu.php:648 views/template_/tmpl/_export.php:69
+#: views/template_/tmpl/export.php:69
+msgid "CK_SUCCESS_CREATE_GABARIT"
+msgstr ""
+
+#: models/update.php:52
+msgid "CK_UPDATE_ARCHIVE_EXTRACTED_ERROR"
+msgstr ""
+
+#: models/update.php:58
+msgid "CK_UPDATE_COPY_FILES_ERROR"
+msgstr ""
+
+#: models/update.php:64
+msgid "CK_UPDATE_CLEAN_FOLDER_ERROR"
+msgstr ""
+
+#: models/update.php:77
+msgid "CK_UPDATE_NO_FILE_ERROR"
+msgstr ""
+
+#: models/update.php:91
+msgid "CK_UPDATE_ERROR_CREATING_FOLDER"
+msgstr ""
+
+#: models/update.php:106 models/update.php:119
+msgid "CK_ERROR_CREATING_COPY"
+msgstr ""
+
+#: models/update.php:115 views/template_/tmpl/ajaxarchive.php:70
+msgid "CK_FILE_RIGHTS_CHANGED_TO"
+msgstr ""
+
+#: models/update.php:117
+msgid "CK_SUCCESS_CREATING_COPY"
+msgstr ""
+
+#: models/update.php:123 views/template_/tmpl/ajaxarchive.php:78
+msgid "CK_ERROR_CHMODING_FILE"
+msgstr ""
+
+#: models/update.php:128 views/template_/tmpl/ajaxarchive.php:83
+msgid "CK_ERROR_CHECKING_FILEPERMS"
+msgstr ""
+
+#: models/update.php:145
+msgid "CK_UPDATE_FOLDER_DELETE_ERROR"
+msgstr ""
+
+#: models/update.php:150
+msgid "CK_UPDATE_FOLDER_CREATE_ERROR"
+msgstr ""
+
+#: mobile-menu-ck.php:59 mobile-menu-ck.php:60 mobile-menu-ck.php:61
+#, fuzzy
+#| msgid "Mobilemenu"
+msgid "Mobile Menu CK"
+msgstr "Mobilemenu"
+
+#: mobile-menu-ck.php:59
+#, fuzzy
+#| msgid "Mobilemenu"
+msgid "All mobilemenus"
+msgstr "Mobilemenu"
+
+#: mobile-menu-ck.php:60
+msgid "Help"
+msgstr ""
+
+#: mobile-menu-ck.php:61
+msgid "About"
+msgstr ""
+
+#: mobile-menu-ck.php:62 views/_fonts/tmpl/default.php:166
+#: views/mobilemenus/tmpl/default.php:73
+msgid "Edit"
+msgstr "Editer"
+
+#: mobile-menu-ck.php:62
+msgid "Add new mobilemenus"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:48
+msgid "Fonts"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:53
+msgid "CK_GOOGLEFONT_INSTALL_INFOS"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:64
+msgid "CK_EDIT_FONT"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:69
+msgid "CK_FONT_NAME"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:79
+msgid "CK_SUBSET"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:86
+msgid "CK_SUBSET_DESC"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:92 views/_fonts/tmpl/default.php:135
+msgid "CK_ALTERNATIVES"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:99 views/_fonts/tmpl/default.php:142
+msgid "CK_ALTERNATIVES_DESC"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:104
+msgid "CK_SAVE_FONT"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:119
+msgid "CK_INSTALL_FONTSQUIRREL"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:120
+msgid "CK_HOW_TO_DL_FONTKIT"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:125
+msgid "File (.zip) to import"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:147
+msgid "CK_INSTALL_FONT"
+msgstr ""
+
+#: views/_fonts/tmpl/default.php:167 views/mobilemenus/tmpl/default.php:75
+msgid "Delete"
+msgstr "Supprimer"
+
+#: views/_fontselect/tmpl/default.php:43
+msgid "CK_GOOGLEFONT_URL"
+msgstr ""
+
+#: views/_fontselect/tmpl/default.php:47
+msgid "CK_GOOGLE_FONT_DOCUMENTATION"
+msgstr ""
+
+#: views/_fontselect/tmpl/default.php:50
+msgid "CK_FONT_APPLIED"
+msgstr ""
+
+#: views/_fontselect/tmpl/default.php:69
+msgid "CK_EMPTY_URL"
+msgstr ""
+
+#: views/_fontselect/tmpl/default.php:109
+#: views/_fontselect/tmpl/default.php:114
+msgid "CK_FONT_NOT_FOUND"
+msgstr ""
+
+#: views/_fontselect/tmpl/default.php:129
+msgid "CK_FONTURL_NOT_FOUND"
+msgstr ""
+
+#: views/_fontselect/tmpl/default.php:172
+msgid "CK_FONTNAME_NOT_FOUND"
+msgstr ""
+
+#: views/_icons/tmpl/default.php:62 views/template_/tmpl/icons.php:66
+msgid "CK_SEARCH_ICONS"
+msgstr ""
+
+#: views/_icons/tmpl/default.php:69 views/template_/tmpl/edit_head.php:148
+#: views/template_/tmpl/icons.php:73
+msgid "CK_FILTER_BY_GROUP"
+msgstr ""
+
+#: views/about/tmpl/default.php:20
+msgid "CK_IS_OUTDATED"
+msgstr ""
+
+#: views/about/tmpl/default.php:22
+msgid "CK_IS_UPTODATE"
+msgstr ""
+
+#: views/about/tmpl/default.php:37
+msgid "CK_TEMPLATECK_VERSION"
+msgstr ""
+
+#: views/about/tmpl/default.php:39
+msgid "CK_TEMPLATECK_DESC"
+msgstr ""
+
+#: views/help/tmpl/default.php:41
+msgid "CK_VIDEOS"
+msgstr ""
+
+#: views/help/tmpl/default.php:44
+msgid "CK_HELP_VIDEO_OVERVIEW"
+msgstr ""
+
+#: views/help/tmpl/default.php:47
+msgid "CK_HELP_VIDEO_ADDINGCSS"
+msgstr ""
+
+#: views/help/tmpl/default.php:50
+msgid "CK_HELP_VIDEO_ADDINGFONT"
+msgstr ""
+
+#: views/help/tmpl/default.php:53
+msgid "CK_HELP_VIDEO_LOGOOPTIONS"
+msgstr ""
+
+#: views/help/tmpl/default.php:56
+msgid "CK_HELP_VIDEO_COLLAPSINGMARGINS"
+msgstr ""
+
+#: views/help/tmpl/default.php:59
+msgid "CK_HELP_VIDEO_ADDINGDROPDOWNMENU"
+msgstr ""
+
+#: views/help/tmpl/default.php:62
+msgid "CK_HELP_VIDEO_FULLWIDTHWRAPPER"
+msgstr ""
+
+#: views/help/tmpl/default.php:66
+msgid "CK_ARTICLES"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_checkmodules.php:17
+#: views/template_/tmpl/edit_checkmodules.php:16
+msgid "CK_CHECK_MODULES"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_checkmodules.php:17
+#: views/template_/tmpl/edit_checkmodules.php:27
+msgid "CK_CHECKMODULES_DESC"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_favorites.php:14
+#: views/template_/tmpl/edit_favorite.php:19
+#: views/template_/tmpl/edit_favorites.php:16
+msgid "CK_FAVORITES"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_favorites.php:16
+#: views/template_/tmpl/edit_favorites.php:18
+msgid "CK_KEEP_OPENED"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_favorites.php:20
+#: views/template_/tmpl/edit_favorite.php:82
+#: views/template_/tmpl/edit_favorites.php:22
+#: views/template_/tmpl/edit_leftpanel.php:37
+#: views/template_/tmpl/edit_leftpanel.php:45
+msgid "CK_MODULE"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_favorites.php:21
+#: views/template_/tmpl/edit_favorite.php:81
+#: views/template_/tmpl/edit_favorites.php:23
+msgid "CK_MENU"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_favorites.php:23
+#: views/mobilemenu/tmpl/edit_favorites.php:70
+#: views/template_/tmpl/edit_favorite.php:25
+#: views/template_/tmpl/edit_favorite.php:33
+#: views/template_/tmpl/edit_favorites.php:25
+#: views/template_/tmpl/edit_favorites.php:74
+msgid "CK_MYFAVORITES"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_favorites.php:68
+#: views/template_/tmpl/edit_favorite.php:30
+#: views/template_/tmpl/edit_favorites.php:71
+msgid "CK_ADD_TO_FAVORITES_ACTION"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:17
+#: views/template_/tmpl/edit_globalinfos.php:17
+msgid "CK_GLOBALINFOS_INFOS"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:18
+#: views/template_/tmpl/edit_globalinfos.php:18
+msgid "CK_GLOBALINFOS_DESC"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:27
+#: views/template_/tmpl/edit_globalinfos.php:25
+msgid "CK_JOOMLAVERSION"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:41
+#: views/template_/tmpl/edit_globalinfos.php:39
+msgid "CK_NAME"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:47
+#: views/template_/tmpl/edit_globalinfos.php:45
+msgid "CK_CREATIONDATE"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:61
+#: views/template_/tmpl/edit_globalinfos.php:59
+msgid "CK_AUTHOREMAIL"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:68
+#: views/template_/tmpl/edit_globalinfos.php:66
+msgid "CK_AUTHORURL"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:75
+#: views/template_/tmpl/edit_globalinfos.php:73
+msgid "CK_COPYRIGHT"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:82
+#: views/template_/tmpl/edit_globalinfos.php:80
+msgid "CK_LICENSE"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_globalinfos.php:89
+#: views/template_/tmpl/edit_globalinfos.php:87
+msgid "CK_VERSION"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_head.php:72 views/template_/tmpl/edit_head.php:92
+msgid "CK_LOADING"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_head.php:73 views/template_/tmpl/edit_head.php:156
+msgid "CK_EQUALHEIGHTS_TOOLTIP"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_leftpanel.php:13
+#: views/template_/tmpl/edit_leftpanel.php:15
+msgid "CK_ITEMS"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_leftpanel.php:15
+#: views/template_/tmpl/edit_leftpanel.php:17
+msgid "CK_DRAG_TO_ADD_BLOCK"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:21
+msgid "Responsive"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:26
+#, fuzzy
+#| msgid "Bulk Actions"
+msgid "Actions"
+msgstr "Actions"
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:29
+#: views/template_/tmpl/edit_head.php:116
+#: views/template_/tmpl/edit_mainmenu.php:56
+msgid "CK_DIRECTCOPY_BUTTON"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:30
+#: views/template_/tmpl/edit_head.php:117
+#: views/template_/tmpl/edit_mainmenu.php:57
+msgid "CK_INSTALL_BUTTON"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:31
+#: views/template_/tmpl/edit_mainmenu.php:58
+msgid "CK_JOOMLA_BUTTON"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:32
+#: views/mobilemenu/tmpl/edit_restore.php:13
+#: views/template_/tmpl/edit_mainmenu.php:59
+#: views/template_/tmpl/edit_restore.php:13
+msgid "CK_RESTORE"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:34
+#: views/template_/tmpl/edit_mainmenu.php:61
+msgid "CK_PRINT_POSITIONS2"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:35
+#: views/mobilemenu/tmpl/edit_replacecolors.php:13
+#: views/template_/tmpl/edit_mainmenu.php:66
+#: views/template_/tmpl/edit_replacecolors.php:13
+msgid "CK_REPLACE_COLORS"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:36
+#: views/template_/tmpl/edit_mainmenu.php:67
+msgid "CK_CUSTOM_STYLES_CREATOR"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:37
+#: views/template_/tmpl/edit_mainmenu.php:68
+msgid "CK_MANAGE_ID_CLASS"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:38
+msgid "CK_SHOW_GFONTS_MANAGER"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:44
+msgid "Close"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:49
+msgid "Exit"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:53
+msgid "Save"
+msgstr "Enregistrer"
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:57
+msgid "Redo"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:61
+msgid "Undo"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mainmenu.php:67
+#, fuzzy
+#| msgid "Save"
+msgid "Save Page"
+msgstr "Enregistrer"
+
+#: views/mobilemenu/tmpl/edit_mediamanager.php:59
+#: views/template_/tmpl/edit_mediamanager.php:59
+#, fuzzy
+#| msgid "Drop files here to upload"
+msgid "Drop files anywhere to upload"
+msgstr "Glissez les fichiers ici pour les téléverser"
+
+#: views/mobilemenu/tmpl/edit_mediamanager.php:60
+#: views/template_/tmpl/edit_mediamanager.php:60
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_mediamanager.php:61
+#: views/template_/tmpl/edit_mediamanager.php:61
+#, fuzzy
+#| msgid "or Select Files"
+msgid "Select Files"
+msgstr "ou sélectionnez les fichiers"
+
+#: views/mobilemenu/tmpl/edit_mediamanager.php:71
+#: views/template_/tmpl/edit_mediamanager.php:71
+#, php-format
+msgid "Maximum upload file size: %s."
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_modeles.php:13
+#: views/template_/tmpl/edit_modeles.php:58
+msgid "CK_LAYOUTS_DESC"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_replacecolors.php:21
+#: views/template_/tmpl/edit_replacecolors.php:21
+msgid "CK_OLD_COLOR"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_replacecolors.php:23
+#: views/template_/tmpl/edit_replacecolors.php:23
+msgid "CK_NEW_COLOR"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_replacecolors.php:31
+#: views/template_/tmpl/edit_replacecolors.php:31
+msgid "CK_DO_REPLACE_COLORS"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_restore.php:44
+#: views/template_/tmpl/edit_restore.php:44
+msgid "CK_DO_RESTORATION"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_restore.php:52
+#: views/mobilemenu/tmpl/edit_restore.php:55
+#: views/template_/tmpl/edit_restore.php:52
+#: views/template_/tmpl/edit_restore.php:55
+msgid "CK_NO_RESTORE_FILE_FOUND"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_stylescreator.php:13
+#: views/template_/tmpl/edit_stylescreator.php:13
+msgid "CK_CUSTOM_STYLES_CREATOR_TITLE"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_stylescreator.php:14
+#: views/template_/tmpl/edit_stylescreator.php:14
+msgid "CK_CUSTOM_STYLES_CREATOR_DESC"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_stylescreator.php:15
+#: views/template_/tmpl/edit_stylescreator.php:15
+msgid "CK_ADD_STYLE"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_wizard.php:15
+#: views/template_/tmpl/edit_mainmenu.php:33
+#: views/template_/tmpl/edit_wizard.php:15
+msgid "CK_WIZARD"
+msgstr ""
+
+#: views/mobilemenu/tmpl/edit_wizard.php:74
+#: views/template_/tmpl/edit_wizard.php:68
+msgid "CK_GENERAL"
+msgstr ""
+
+#: views/mobilemenus/tmpl/default.php:72
+#, fuzzy
+#| msgid "Add New"
+msgid "Add new"
+msgstr "Créer nouveau"
+
+#: views/mobilemenus/tmpl/default.php:74
+msgid "Copy"
+msgstr "Copier"
+
+#: views/mobilemenus/tmpl/default.php:76
+msgid "Import"
+msgstr "Importer"
+
+#: views/mobilemenus/tmpl/default.php:77
+msgid "Export"
+msgstr "Exporter"
+
+#: views/mobilemenus/tmpl/default.php:125
+msgid "CK_EXPORT"
+msgstr ""
+
+#: views/mobilemenus/tmpl/default.php:136 views/template_/tmpl/_export.php:108
+#: views/template_/tmpl/export.php:108
+msgid "form.token"
+msgstr ""
+
+#: views/mobilemenus/tmpl/default.php:147
+msgid "CK_PLEASE_SELECT_ITEM"
+msgstr ""
+
+#: views/template_/tmpl/__ajaxlayouts.php:29
+#: views/template_/tmpl/ajaxbannermanager.php:18
+#: views/template_/tmpl/ajaxblocselection.php:19
+#: views/template_/tmpl/ajaxlayoutcomments.php:29
+#: views/template_/tmpl/ajaxlayouterror404.php:26
+#: views/template_/tmpl/ajaxmaincontentmanager.php:18
+#: views/template_/tmpl/ajaxmodulesmanager.php:21
+#: views/template_/tmpl/ajaxparams.php:23
+#: views/template_/tmpl/ajaxresponsive.php:36
+#: views/template_/tmpl/ajaxrowmanager.php:17
+#: views/template_/tmpl/ajaxstylescss.php:38
+#: views/template_/tmpl/edit_checkmodules.php:18
+msgid "CK_CANCEL"
+msgstr ""
+
+#: views/template_/tmpl/__ajaxlayouts.php:30
+#: views/template_/tmpl/ajaxbannermanager.php:19
+#: views/template_/tmpl/ajaxblocselection.php:20
+#: views/template_/tmpl/ajaxlayoutcomments.php:30
+#: views/template_/tmpl/ajaxlayouterror404.php:27
+#: views/template_/tmpl/ajaxmaincontentmanager.php:19
+#: views/template_/tmpl/ajaxmodulesmanager.php:22
+#: views/template_/tmpl/ajaxparams.php:24
+#: views/template_/tmpl/ajaxresponsive.php:37
+#: views/template_/tmpl/ajaxrowmanager.php:18
+#: views/template_/tmpl/ajaxstylescss.php:39
+msgid "CK_VALIDATE"
+msgstr ""
+
+#: views/template_/tmpl/_export.php:13 views/template_/tmpl/export.php:13
+msgid "behavior.formvalidation"
+msgstr ""
+
+#: views/template_/tmpl/_export.php:23 views/template_/tmpl/export.php:23
+msgid "JGLOBAL_VALIDATION_FORM_FAILED"
+msgstr ""
+
+#: views/template_/tmpl/ajaxarchive.php:25
+msgid "CK_ERROR_TEMPLATECOPY_TEMPLATENOTINSTALLED"
+msgstr ""
+
+#: views/template_/tmpl/ajaxarchive.php:61
+#: views/template_/tmpl/ajaxarchive.php:74
+#: views/template_/tmpl/ajaxarchive.php:95
+msgid "CK_ERROR_CREATING_TEMPLATECOPY"
+msgstr ""
+
+#: views/template_/tmpl/ajaxbannermanager.php:16
+msgid "CK_BANNERMANAGER_EDIT"
+msgstr ""
+
+#: views/template_/tmpl/ajaxbannermanager.php:27
+msgid "CK_BANNERMANAGER_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxbannermanager.php:28
+msgid "CK_BANNERMANAGER_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxbannermanager.php:33
+msgid "CK_BANNERMANAGER"
+msgstr ""
+
+#: views/template_/tmpl/ajaxbannermanager.php:58
+msgid "CK_BANNERLOGO_WIDTH"
+msgstr ""
+
+#: views/template_/tmpl/ajaxbannermanager.php:65
+msgid "CK_BANNERMODULE_WIDTH"
+msgstr ""
+
+#: views/template_/tmpl/ajaxbannermanager.php:72
+msgid "CK_BANNERMENU_WIDTH"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:17
+#: views/template_/tmpl/ajaxstylescss.php:36
+msgid "CK_CSS_EDIT"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:28
+msgid "CK_BLOCSELECTION_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:29
+msgid "CK_BLOCSELECTION_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:34
+#: views/template_/tmpl/edit_leftpanel.php:21
+#: widgets/parallaxbackground/parallaxbackground.php:93
+msgid "CK_SINGLE_MODULE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:35
+#: views/template_/tmpl/edit_leftpanel.php:22
+#: widgets/parallaxbackground/parallaxbackground.php:92
+msgid "CK_FLEXIBLES_MODULES"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:36
+#: widgets/parallaxbackground/parallaxbackground.php:94
+msgid "CK_HORIZ_MENU"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:37
+msgid "CK_BANNER_LOGO"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:38
+#: views/template_/tmpl/edit_leftpanel.php:27
+msgid "CK_CUSTOM_BLOCK"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:42
+msgid "CK_UNIQUE_ID"
+msgstr ""
+
+#: views/template_/tmpl/ajaxblocselection.php:48
+msgid "CK_UNIQUE_POSITION"
+msgstr ""
+
+#: views/template_/tmpl/ajaxcheckmodules.php:38
+msgid "CK_MODULES_IN_POSITION_OK"
+msgstr ""
+
+#: views/template_/tmpl/ajaxfunctions.php:431
+msgid "CK_ERROR_CREATING_FUNCTIONSPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxfunctions.php:433
+msgid "CK_SUCCESS_CREATING_FUNCTIONSPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:132
+msgid "CK_ERROR_CREATING_FOLDER_CSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:134
+msgid "CK_SUCCESS_CREATING_FOLDER_CSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:178
+#: views/template_/tmpl/ajaxindex.php:211
+msgid "CK_ERROR_CREATING_FONTSAWESOMECSS_PROJECTS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:180
+#: views/template_/tmpl/ajaxindex.php:213
+msgid "CK_SUCCESS_CREATING_FONTSAWESOMECSS_PROJECTS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:188
+#: views/template_/tmpl/ajaxindex.php:198
+msgid "CK_ERROR_CREATING_FOLDER_IMAGES"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:190
+#: views/template_/tmpl/ajaxindex.php:200
+msgid "CK_SUCCESS_CREATING_FOLDER_IMAGES"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:221
+#: views/template_/tmpl/ajaxindex.php:612
+msgid "CK_ERROR_CREATING_CUSTOMCSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:237
+msgid "CK_ERROR_CREATING_CUSTOMCODEENDBODY"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:247
+msgid "CK_ERROR_CREATING_INDEXHTML_PROJECTS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:249
+msgid "CK_SUCCESS_CREATING_INDEXHTML_PROJECTS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:257
+msgid "CK_ERROR_CREATING_INDEXHTML_CSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:259
+msgid "CK_SUCCESS_CREATING_INDEXHTML_CSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:278
+#: views/template_/tmpl/ajaxindex.php:289
+msgid "CK_ERROR_CREATING_INDEXHTML_IMAGES"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:280
+#: views/template_/tmpl/ajaxindex.php:291
+msgid "CK_SUCCESS_CREATING_INDEXHTML_IMAGES"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:784
+msgid "CK_ERROR_CREATING_HEADERPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:786
+msgid "CK_SUCCESS_CREATING_HEADERPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:814
+msgid "CK_ERROR_CREATING_INDEXPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:816
+msgid "CK_SUCCESS_CREATING_INDEXPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:822
+msgid "CK_ERROR_CREATING_FOOTERPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:824
+msgid "CK_SUCCESS_CREATING_FOOTERPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:836
+msgid "CK_ERROR_CREATING_WOOCOMMERCEPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxindex.php:838
+msgid "CK_SUCCESS_CREATING_WOOCOMMERCEPHP"
+msgstr ""
+
+#: views/template_/tmpl/ajaxlayoutcomments.php:59
+msgid "CK_AVATAR_SIZE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxlayoutcomments.php:64
+msgid "CK_USE_ICONS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:46
+msgid "CK_PAGEPARAMS_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:47
+msgid "CK_PAGEPARAMS_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:71
+msgid "CK_PAGETITLES_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:72
+msgid "CK_PAGETITLES_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:102
+msgid "CK_FORM_FIELDS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:108
+msgid "CK_PAGEBUTTONS_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:109
+msgid "CK_PAGEBUTTONS_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:167
+msgid "CK_CONTENT_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:168
+msgid "CK_CONTENT_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:186
+msgid "CK_SYSTEMIMAGES_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:187
+msgid "CK_SYSTEMIMAGES_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:206
+msgid "CK_TABLE_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:207
+msgid "CK_TABLE_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:212
+msgid "CK_TABLE_STYLE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:220
+msgid "CK_TABLE_OPTIONS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:230
+msgid "CK_TABLEBORDER_STYLE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:243
+msgid "CK_TABLEBORDERRADIUS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:251
+msgid "CK_TABLESTRIPED_STYLE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:257
+msgid "CK_TABLEHOVER_STYLE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxparams.php:300
+#: views/template_/tmpl/ajaxstylescss.php:242
+msgid "CK_PREVIEWAREA_TITLE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxprintpositions.php:20
+#: views/template_/tmpl/edit_mainmenu.php:93
+msgid "CK_EXIT"
+msgstr ""
+
+#: views/template_/tmpl/ajaxresponsive.php:34
+msgid "CK_EDIT_RESPONSIVE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxresponsive.php:46
+msgid "CK_RESPONSIVE_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxresponsive.php:47
+msgid "CK_RESPONSIVE_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxresponsive.php:53
+msgid "CK_RESPONSIVE_RANGE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxresponsive.php:71
+msgid "CK_RESPONSIVE_VALUE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxresponsive.php:121
+msgid "CK_ROW_CONTAINS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxsave404page.php:19
+#: views/template_/tmpl/ajaxsavecustomjs.php:19
+msgid "CK_CUSTOMJS_SAVE_SUCCESS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxsave404page.php:21
+#: views/template_/tmpl/ajaxsavecustomjs.php:21
+msgid "CK_CUSTOMJS_SAVE_FAILED"
+msgstr ""
+
+#: views/template_/tmpl/ajaxsavecustomfunctions.php:19
+msgid "CK_CUSTOMFUNCTIONS_SAVE_SUCCESS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxsavecustomfunctions.php:21
+msgid "CK_CUSTOMFUNCTIONS_SAVE_FAILED"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:40
+#: views/template_/tmpl/edit_head.php:133 assets/admin.js:1272
+#: assets/admin_bak.js:825 assets/colpick.js:95
+msgid "CK_PASTE"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:41
+msgid "CK_COPYALLCSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:56
+msgid "CK_LOGO_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:57
+msgid "CK_LOGO_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:72
+msgid "CK_LOGODESC_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:73
+msgid "CK_LOGODESC_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:115
+msgid "CK_MODULES_TITLES_STYLES"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:150
+msgid "CK_MODULES_BODY_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:151
+msgid "CK_MODULES_BODY_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:168
+msgid "CK_MODULE_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:169
+msgid "CK_MODULE_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:186
+msgid "CK_MODULETITLE_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:187
+msgid "CK_MODULETITLE_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:203
+msgid "CK_ICON_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:204
+msgid "CK_ICON_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:225
+msgid "CK_VIDEO_BACKGROUND_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxstylescss.php:226
+msgid "CK_VIDEO_BACKGROUND_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtabcustomcss.php:21
+msgid "CK_NO_CUSTOMCSS_FILE_FOUND"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtabcustomcss.php:37
+msgid "CK_PAGECUSTOMCSS_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtabmenustyles.php:32
+msgid "CK_MENU_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtabmenustyles.php:33
+msgid "CK_MENU_DESC"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtemplatecss.php:429
+msgid "CK_ERROR_CREATING_TEMPLATECSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtemplatecss.php:431
+msgid "CK_SUCCESS_CREATING_TEMPLATECSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtemplatecss.php:437
+msgid "CK_ERROR_CREATING_TEMPLATERTLCSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtemplatecss.php:439
+msgid "CK_SUCCESS_CREATING_TEMPLATERTLCSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtemplatecss.php:445
+msgid "CK_ERROR_CREATING_TEMPLATEMOBILECSS"
+msgstr ""
+
+#: views/template_/tmpl/ajaxtemplatecss.php:447
+msgid "CK_SUCCESS_CREATING_TEMPLATEMOBILECSS"
+msgstr ""
+
+#: views/template_/tmpl/edit_checkmodules.php:26
+msgid "CK_CHECKMODULES_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/edit_favorite.php:24
+#: views/template_/tmpl/edit_favorite.php:79 assets/admin.js:1145
+msgid "CK_SUGGESTIONS"
+msgstr ""
+
+#: views/template_/tmpl/edit_globalinfos.php:28
+msgid "CK_JOOMLA3"
+msgstr ""
+
+#: views/template_/tmpl/edit_globalinfos.php:28
+#: views/template_/tmpl/edit_globalinfos.php:29
+#, fuzzy
+#| msgid "Decoration"
+msgid "select.option"
+msgstr "Décoration"
+
+#: views/template_/tmpl/edit_globalinfos.php:29
+msgid "CK_JOOMLA25"
+msgstr ""
+
+#: views/template_/tmpl/edit_globalinfos.php:33
+msgid "select.genericlist"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:60 assets/admin_bak.js:3846
+msgid "TEMPLATE_MUST_HAVE_NAME"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:90 assets/admin_bak.js:1064
+msgid "CK_TEMPLATE_MUST_HAVE_NAME"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:91
+msgid "TEMPLATE_MUST_HAVE_WIDTH"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:93
+msgid "CK_LOAD_SUCCESS_STEP1"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:94
+msgid "CK_LOAD_FAILURE_STEP1"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:95
+msgid "CK_LOAD_SUCCESS_STEP_ARCHIVE"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:96
+msgid "CK_LOAD_FAILURE_STEP_ARCHIVE"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:97
+msgid "CK_LOAD_SUCCESS_STEP_XML"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:98
+msgid "CK_LOAD_FAILURE_STEP_XML"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:99
+msgid "CK_LOAD_SUCCESS_STEP_CSS"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:100
+msgid "CK_LOAD_FAILURE_STEP_CSS"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:102
+msgid "CK_ONLY_ONE_COMPONENT"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:103 assets/admin.js:2195
+#: assets/admin_bak.js:1171
+msgid "CK_COPYTOCLIPBOARD"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:104 assets/admin.js:2200
+#: assets/admin_bak.js:1176
+msgid "CK_COPYFROMCLIPBOARD"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:105 assets/admin.js:2211
+#: assets/admin_bak.js:1187
+msgid "CK_CLIPBOARDEMPTY"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:106
+msgid "TEMPLATE_MUST_HAVE_CONTENT"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:107 assets/admin_bak.js:2577
+msgid "CK_INVALID_ID"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:108 assets/admin_bak.js:2580
+msgid "CK_ENTER_VALID_ID"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:109 assets/admin_bak.js:2600
+msgid "CK_ENTER_VALID_POSITION"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:110 assets/admin_bak.js:2539
+msgid "CK_ENTER_UNIQUE_ID"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:111 assets/admin_bak.js:2560
+msgid "CK_ENTER_UNIQUE_POSITION"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:112 assets/admin_bak.js:2607
+msgid "CK_POSITION_ALREADY_USED"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:113
+msgid "CK_CHOOSE_BLOC_TYPE"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:114
+msgid "CK_ERASE_WITH_NEW_THEME"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:115
+msgid "JLIB_FORM_FIELD_INVALID"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:118
+msgid "CK_DIRECTCOPY_BUTTON_DESC"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:119
+msgid "CK_INSTALL_BUTTON_DESC"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:120 assets/admin_bak.js:2291
+msgid "CK_MOVE_TOOLTIP"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:121 assets/admin_bak.js:2292
+#: assets/admin_bak.js:2356
+msgid "CK_CSS_TOOLTIP"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:122 assets/admin_bak.js:2293
+msgid "CK_FAVORITE_TOOLTIP"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:123 assets/admin_bak.js:2319
+msgid "CK_MODULES_TOOLTIP"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:124 assets/admin_bak.js:2323
+msgid "CK_ROW_TOOLTIP"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:125
+msgid "CK_BANNER_TOOLTIP"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:126 assets/admin_bak.js:2327
+msgid "CK_MAINCONTENT_TOOLTIP"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:127 assets/admin_bak.js:1548
+msgid "CK_ERASE_WITH_NEW_FAVORITE"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:128
+msgid "CK_SUCCESS_CREATING_FAVORITEFILE"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:129 assets/admin.js:1273
+#: assets/admin_bak.js:826 assets/colpick.js:96
+msgid "CK_SELECT_PALETTE"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:130 assets/admin.js:1269
+#: assets/admin_bak.js:822 assets/colpick.js:92
+msgid "CK_OK"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:131 assets/admin.js:1270
+#: assets/admin_bak.js:823 assets/colpick.js:93
+msgid "CK_CLEAR"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:132 assets/admin.js:1271
+#: assets/admin_bak.js:824 assets/admin_bak.js:2316 assets/colpick.js:94
+msgid "CK_COPY"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:134
+msgid "CK_NO_MORE_UNDO"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:135
+msgid "CK_NO_MORE_REDO"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:138 assets/admin_bak.js:5605
+msgid "CK_BACK_TO_WIDGETS_LIST"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:140 assets/admin_bak.js:2341
+msgid "CK_MODULE_EDITION_TOOLTIP"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:141 assets/admin_bak.js:2200
+msgid "CK_SAVE_FIRST_USE_MODULE"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:142 assets/admin_bak.js:5709
+msgid "CK_MODULE_INSTALL_FAILED"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:143 assets/admin_bak.js:5705
+msgid "CK_MODULE_INSTALL_SUCCESS"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:146 assets/admin_bak.js:2344
+msgid "CK_HTML_ID"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:149
+#: views/template_/tmpl/edit_mainmenu.php:97 assets/admin.js:818
+#: assets/admin.js:1188 assets/admin_bak.js:2313
+msgid "CK_SAVE"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:150 assets/admin_bak.js:3932
+msgid "CK_LOAD_FAILURE_TEMPLATE_CREATION"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:151 assets/admin_bak.js:2303
+#: assets/admin_bak.js:2353
+msgid "CK_RESPONSIVE_SETTINGS_SHOWN"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:152 assets/admin.js:1179
+#: assets/admin_bak.js:2306 assets/admin_bak.js:2354
+msgid "CK_RESPONSIVE_SETTINGS_HIDDEN"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:153 assets/admin.js:1177
+#: assets/admin_bak.js:2300
+msgid "CK_RESPONSIVE_SETTINGS_ALIGNED"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:154 assets/admin.js:1178
+#: assets/admin_bak.js:2301
+msgid "CK_RESPONSIVE_SETTINGS_STACKED"
+msgstr ""
+
+#: views/template_/tmpl/edit_head.php:155 assets/admin_bak.js:2532
+#: assets/admin_bak.js:2554
+msgid "CK_EXIT_RESPONSIVE_FIRST"
+msgstr ""
+
+#: views/template_/tmpl/edit_leftpanel.php:18
+#: widgets/parallaxbackground/parallaxbackground.php:90
+msgid "CK_WRAPPER"
+msgstr ""
+
+#: views/template_/tmpl/edit_leftpanel.php:19
+#: widgets/parallaxbackground/parallaxbackground.php:91
+msgid "CK_ROW"
+msgstr ""
+
+#: views/template_/tmpl/edit_leftpanel.php:33
+msgid "CK_ELEMENTS_FROM_LIBRARY"
+msgstr ""
+
+#: views/template_/tmpl/edit_leftpanel.php:38
+#: views/template_/tmpl/edit_leftpanel.php:49
+msgid "CK_SECTION"
+msgstr ""
+
+#: views/template_/tmpl/edit_leftpanel.php:39
+msgid "TEST3"
+msgstr ""
+
+#: views/template_/tmpl/edit_leftpanel.php:40
+msgid "TEST4"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:30
+msgid "CK_INFOS_PARAMS"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:34
+msgid "CK_INFOS_BUTTON"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:48
+msgid "CK_RESPONSIVE_PARAMS"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:53
+msgid "CK_ACTIONS"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:73
+msgid "CK_WIDGETS"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:78
+#: views/template_/tmpl/edit_modeles.php:57
+msgid "CK_LAYOUTS"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:101
+msgid "CK_REDO"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:105
+msgid "CK_UNDO"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:109
+msgid "CK_TOGGLE_EXPERT"
+msgstr ""
+
+#: views/template_/tmpl/edit_mainmenu.php:115
+msgid "CK_SAVE_THEME"
+msgstr ""
+
+#: views/template_/tmpl/edit_modeles.php:68
+msgid "CK_MODELE_"
+msgstr ""
+
+#: views/template_/tmpl/edit_package.php:16
+msgid "CK_TEMPLATE_PACKAGE"
+msgstr ""
+
+#: views/template_/tmpl/edit_package.php:26
+msgid "CK_PACKAGE_INFOS"
+msgstr ""
+
+#: views/template_/tmpl/edit_package.php:27
+msgid "CK_PACKAGE_DESC"
+msgstr ""
+
+#: views/template_/tmpl/edit_themes.php:20
+msgid "CK_LOAD_THEME"
+msgstr ""
+
+#: views/template_/tmpl/edit_themes.php:20
+msgid "CK_LOAD_THEME_DESC"
+msgstr ""
+
+#: widgets/parallaxbackground/parallaxbackground.php:82
+msgid "CK_WIDGET_PARALLAX_BACKGROUND_INFOS"
+msgstr ""
+
+#: widgets/parallaxbackground/parallaxbackground.php:89
+msgid "CK_FILTER_BY"
+msgstr ""
+
+#: widgets/parallaxbackground/parallaxbackground.php:95
+msgid "CK_ALL"
+msgstr ""
+
+#: widgets/parallaxbackground/parallaxbackground.php:100
+#: widgets/topfixedwrapper/topfixedwrapper.php:81
+msgid "CK_BLOCK"
+msgstr ""
+
+#: widgets/parallaxbackground/parallaxbackground.php:102
+msgid "CK_BACKGROUND_IMAGE"
+msgstr ""
+
+#: widgets/parallaxbackground/parallaxbackground.php:103
+msgid "CK_EFFECTS"
+msgstr ""
+
+#: widgets/parallaxbackground/parallaxbackground.php:131
+msgid "CK_SPEED"
+msgstr ""
+
+#: widgets/topfixedwrapper/topfixedwrapper.php:70
+msgid "CK_WIDGET_TOP_FIXED_WRAPPER_INFOS"
+msgstr ""
+
+#: widgets/topfixedwrapper/topfixedwrapper.php:71
+#: widgets/topfixedwrapper/topfixedwrapper.php:97
+msgid "CK_WIDGET_TOP_FIXED_OFFSET"
+msgstr ""
+
+#: widgets/topfixedwrapper/topfixedwrapper.php:71
+msgid "CK_WIDGET_TOP_FIXED_OFFSET_DESC"
+msgstr ""
+
+#: widgets/topfixedwrapper/topfixedwrapper.php:72
+#: widgets/topfixedwrapper/topfixedwrapper.php:101
+msgid "CK_WIDGET_TOP_FIXED_EFFECT"
+msgstr ""
+
+#: widgets/topfixedwrapper/topfixedwrapper.php:72
+msgid "CK_WIDGET_TOP_FIXED_EFFECT_DESC"
+msgstr ""
+
+#: widgets/topfixedwrapper/topfixedwrapper.php:73
+#: widgets/topfixedwrapper/topfixedwrapper.php:108
+msgid "CK_WIDGET_TOP_FIXED_RESOLUTION"
+msgstr ""
+
+#: widgets/topfixedwrapper/topfixedwrapper.php:73
+msgid "CK_WIDGET_TOP_FIXED_RESOLUTION_DESC"
+msgstr ""
+
+#: assets/admin.js:800
+msgid "CK_REMOVE_BLOCK"
+msgstr ""
+
+#: assets/admin.js:801
+msgid "CK_MOVE_BLOCK"
+msgstr ""
+
+#: assets/admin.js:802
+msgid "CK_DUPLICATE_COLUMN"
+msgstr ""
+
+#: assets/admin.js:803 assets/admin.js:1184
+msgid "CK_EDIT_STYLES"
+msgstr ""
+
+#: assets/admin.js:804 assets/admin.js:817 assets/admin.js:1185
+msgid "CK_DESIGN_SUGGESTIONS"
+msgstr ""
+
+#: assets/admin.js:813
+msgid "CK_REMOVE_ITEM"
+msgstr ""
+
+#: assets/admin.js:814
+msgid "CK_MOVE_ITEM"
+msgstr ""
+
+#: assets/admin.js:815
+msgid "CK_DUPLICATE_ITEM"
+msgstr ""
+
+#: assets/admin.js:816
+msgid "CK_EDIT_ITEM"
+msgstr ""
+
+#: assets/admin.js:836 assets/admin.js:852 assets/admin.js:862
+#: assets/admin_bak.js:1381 assets/admin_bak.js:6044 assets/admin_bak.js:6322
+msgid "CK_CONFIRM_DELETE"
+msgstr ""
+
+#: assets/admin.js:1117 assets/admin.js:1619 assets/admin.js:1789
+msgid "Failed"
+msgstr ""
+
+#: assets/admin.js:1180
+msgid "CK_MOVE_ROW"
+msgstr ""
+
+#: assets/admin.js:1181
+msgid "CK_MORE_MENU_ELEMENTS"
+msgstr ""
+
+#: assets/admin.js:1183
+msgid "CK_EDIT_COLUMNS"
+msgstr ""
+
+#: assets/admin.js:1186
+msgid "CK_DUPLICATE_ROW"
+msgstr ""
+
+#: assets/admin.js:1189
+msgid "CK_REMOVE_ROW"
+msgstr ""
+
+#: assets/admin.js:1655 assets/admin_bak.js:84 assets/admin_bak.js:106
+#: assets/admin_bak.js:984 assets/admin_bak.js:1038 assets/admin_bak.js:1247
+#: assets/admin_bak.js:1269 assets/admin_bak.js:1371 assets/admin_bak.js:1399
+#: assets/admin_bak.js:1406 assets/admin_bak.js:1496 assets/admin_bak.js:1511
+#: assets/admin_bak.js:1578 assets/admin_bak.js:1757 assets/admin_bak.js:1764
+#: assets/admin_bak.js:2003 assets/admin_bak.js:2035 assets/admin_bak.js:2070
+#: assets/admin_bak.js:2092 assets/admin_bak.js:2115 assets/admin_bak.js:2153
+#: assets/admin_bak.js:2754 assets/admin_bak.js:2808 assets/admin_bak.js:2831
+#: assets/admin_bak.js:2856 assets/admin_bak.js:2900 assets/admin_bak.js:2932
+#: assets/admin_bak.js:2963 assets/admin_bak.js:3663 assets/admin_bak.js:3714
+#: assets/admin_bak.js:3738 assets/admin_bak.js:3762 assets/admin_bak.js:3786
+#: assets/admin_bak.js:3810 assets/admin_bak.js:3832 assets/admin_bak.js:5484
+#: assets/admin_bak.js:5514 assets/admin_bak.js:5558 assets/admin_bak.js:5713
+#: assets/admin_bak.js:5866 assets/admin_bak.js:5898 assets/admin_bak.js:5982
+#: assets/admin_bak.js:6140 assets/admin_bak.js:6262 assets/admin_bak.js:6317
+#: widgets/parallaxbackground/interface.js:52
+#: widgets/topfixedwrapper/interface.js:49
+msgid "CK_FAILED"
+msgstr ""
+
+#: assets/admin.js:2216 assets/admin_bak.js:1192
+msgid "CK_CONFIRM_RESET_STYLES"
+msgstr ""
+
+#: assets/admin_bak.js:1397
+msgid "CK_SUCCESS"
+msgstr ""
+
+#: assets/admin_bak.js:2309
+msgid "CK_RESPONSIVE_SETTINGS_HAMBURGER"
+msgstr ""
+
+#: assets/admin_bak.js:2345
+msgid "CK_CSS_CLASS"
+msgstr ""
+
+#: assets/admin_bak.js:2357
+msgid "CK_VALIGN_DEFAULT"
+msgstr ""
+
+#: assets/admin_bak.js:2358
+msgid "CK_VALIGN_TOP"
+msgstr ""
+
+#: assets/admin_bak.js:2359
+msgid "CK_VALIGN_CENTER"
+msgstr ""
+
+#: assets/admin_bak.js:2360
+msgid "CK_VALIGN_BOTTOM"
+msgstr ""
+
+#: assets/admin_bak.js:3099
+msgid "CK_FAILED_CUSTOMCODE"
+msgstr ""
+
+#: assets/admin_bak.js:3120
+msgid "CK_FAILED_CUSTOMCSS"
+msgstr ""
+
+#: assets/admin_bak.js:3141
+msgid "CK_FAILED_CUSTOMJS"
+msgstr ""
+
+#: assets/admin_bak.js:3162
+msgid "Failed to save Custom Functions"
+msgstr ""
+
+#: assets/admin_bak.js:5555 assets/admin_bak.js:5681
+msgid "CK_WIDGET_INSTALL_FAILED"
+msgstr ""
+
+#: assets/admin_bak.js:5626
+msgid "CK_FAILED_CHECK_VERSION"
+msgstr ""
+
+#: assets/admin_bak.js:5668
+msgid "CK_WIDGET_INSTALL_SUCCESS"
+msgstr ""
+
+#: assets/admin_bak.js:5768 assets/admin_bak.js:5780
+msgid "CK_LOAD"
+msgstr ""
+
+#: assets/admin_bak.js:5776
+msgid "CK_PRICE"
+msgstr ""
+
+#: assets/admin_bak.js:5776
+msgid "CK_FREE"
+msgstr ""
+
+#: assets/admin_bak.js:5778
+msgid "CK_DEMO"
+msgstr ""
+
+#: assets/admin_bak.js:5778
+msgid "CK_DEMO_NOT_AVAILABLE"
+msgstr ""
+
+#: assets/admin_bak.js:5779
+msgid "CK_DOCUMENTATION"
+msgstr ""
+
+#: assets/admin_bak.js:5801
+msgid "CK_PAGES"
+msgstr ""
+
+#: assets/admin_bak.js:5873
+msgid "CK_MANUAL_TEMPLATE_INSTALL_INFOS"
+msgstr ""
+
+#: assets/admin_bak.js:5873
+msgid "CK_READ_DOCUMENTATION"
+msgstr ""
+
+#: assets/admin_bak.js:5873
+msgid "CK_DOWNLOAD"
+msgstr ""
+
+#: assets/admin_bak.js:6105
+msgid "CK_ENTER_CSS_CLASS"
+msgstr ""
+
+#: assets/admin_bak.js:6138
+msgid "CK_SAVED"
+msgstr ""
+
+#: assets/admin_bak.js:6259
+msgid ""
+"Error : Can not get the element. Please retry and contact the developer."
+msgstr ""
+
+#: assets/jquery.min.js:2
+msgid "radio"
+msgstr ""
+
+#: assets/jquery.min.js:2
+msgid "checkbox"
+msgstr ""
+
+#: assets/jquery.min.js:2
+msgid "file"
+msgstr ""
+
+#: assets/jquery.min.js:2
+msgid "password"
+msgstr ""
+
+#: assets/jquery.min.js:2
+#, fuzzy
+#| msgid "Images"
+msgid "image"
+msgstr "Images"
+
+#~ msgid "No file received"
+#~ msgstr "Aucun fichier reçu"
+
+#~ msgid "File does not exists"
+#~ msgstr "Le fichier n'existe pas"
+
+#~ msgid "Unable to create the folder"
+#~ msgstr "Impossible de créer le dossier"
+
+#~ msgid "Unable to write the file"
+#~ msgstr "Impossible de créer le fichier"
+
+#~ msgid "yes"
+#~ msgstr "Oui"
+
+#~ msgid "no"
+#~ msgstr "Non"
+
+#~ msgid "Can not find source file"
+#~ msgstr "Impossible de trouver le fichier"
+
+#~ msgid "Error CK Folder Class : Can not find the source"
+#~ msgstr "Erreur Class CK Folder : Ne peut pas trouver la source"
+
+#~ msgid "Error CK Folder Class : Folder already exists"
+#~ msgstr "Erreur Class CK Folder : Le dossier existe déjà"
+
+#~ msgid "Error CK Folder Class : Rename failed"
+#~ msgstr "Erreur Class CK Folder : Impossible de renommer"
+
+#~ msgid "You must select an item for this action."
+#~ msgstr "Vous devez sélectionner un élément pour effectuer cette action."
+
+#~ msgid "Invalid post type"
+#~ msgstr "Type de post invalide"
+
+#~ msgid "Load demo data"
+#~ msgstr "Charger les données d'exemple"
+
+#~ msgid "Effects"
+#~ msgstr "Effets"
+
+#~ msgid "Slides Manager"
+#~ msgstr "Gestionnaire de slides"
+
+#~ msgid "Add a Slide"
+#~ msgstr "Ajouter un slide"
+
+#~ msgid "Import slides from a folder"
+#~ msgstr "Importer les images d'un dossier"
+
+#~ msgid "Download the Pro Addon"
+#~ msgstr "Télécharger l'addon Pro"
+
+#~ msgid "to"
+#~ msgstr "vers"
+
+#~ msgid "Height"
+#~ msgstr "Hauteur"
+
+#~ msgid "Width"
+#~ msgstr "Largeur"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Loader icon"
+#~ msgstr "Icône"
+
+#~ msgid "Bar"
+#~ msgstr "Barre"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Navigation"
+#~ msgstr "Navigation"
+
+#~ msgid "Thumbnails"
+#~ msgstr "Miniatures"
+
+#~ msgid "Pagination"
+#~ msgstr "Pagination"
+
+#~ msgid "Theme"
+#~ msgstr "Thème"
+
+#~ msgid "Skin"
+#~ msgstr "Apparence"
+
+#~ msgid "Thumbnail height"
+#~ msgstr "Hauteur de la miniature"
+
+#~ msgid "Caption Title"
+#~ msgstr "Titre"
+
+#~ msgid "Title Color"
+#~ msgstr "Couleur du titre"
+
+#~ msgid "Font Size"
+#~ msgstr "Taille de police"
+
+#~ msgid "Font Weight"
+#~ msgstr "Style de police"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Bold"
+#~ msgstr "Gras"
+
+#~ msgid "Caption Description"
+#~ msgstr "Description"
+
+#~ msgid "Description Color"
+#~ msgstr "Couleur de la description"
+
+#~ msgid "Caption Styles"
+#~ msgstr "Styles de la légende"
+
+#~ msgid "Background Color"
+#~ msgstr "Couleur de fond"
+
+#~ msgid "Opacity"
+#~ msgstr "Opacité"
+
+#~ msgid "Margin"
+#~ msgstr "Marges"
+
+#~ msgid "Top"
+#~ msgstr "Haut"
+
+#~ msgid "Right"
+#~ msgstr "Droite"
+
+#~ msgid "Bottom"
+#~ msgstr "Bas"
+
+#~ msgid "Left"
+#~ msgstr "Gauche"
+
+#~ msgid "Padding"
+#~ msgstr "Marge interne"
+
+#~ msgid "Border Radius"
+#~ msgstr "Coins arrondis"
+
+#~ msgid "Top Left"
+#~ msgstr "Haut gauche"
+
+#~ msgid "Top Right"
+#~ msgstr "Haut droite"
+
+#~ msgid "Bottom Right"
+#~ msgstr "Bas droite"
+
+#~ msgid "Bottom Left"
+#~ msgstr "Bas gauche"
+
+#~ msgid "Border"
+#~ msgstr "Bordure"
+
+#~ msgid "Shadow"
+#~ msgstr "Ombre"
+
+#~ msgid "Out"
+#~ msgstr "Externe"
+
+#~ msgid "In"
+#~ msgstr "Interne"
+
+#~ msgid "Animation"
+#~ msgstr "Animation"
+
+#~ msgid "Caption animation"
+#~ msgstr "Animation de la légende"
+
+#~ msgid "Slide duration"
+#~ msgstr "Durée du slide"
+
+#~ msgid "Transition duration"
+#~ msgstr "Durée de la transition"
+
+#~ msgid "Crop images"
+#~ msgstr "Ajuster les images"
+
+#~ msgid "Autoplay"
+#~ msgstr "Lecture automatique"
+
+#~ msgid "Pause on mouseover"
+#~ msgstr "Pause au survol"
+
+#~ msgid "Display order"
+#~ msgstr "Ordre d'affichage"
+
+#~ msgid "Random"
+#~ msgstr "Aléatoire"
+
+#~ msgid "Full page background"
+#~ msgstr "Fond de page pleine largeur"
+
+#~ msgid "Container background"
+#~ msgstr "Fond de conteneur"
+
+#~ msgid ""
+#~ "Write the css selector (e.g. : #main) of the element where to place the "
+#~ "slideshow"
+#~ msgstr ""
+#~ "Ecrivez un sélecteur css (ex : #main) de l'élément dans lequel placer le "
+#~ "slideshow en fond"
+
+#~ msgid "Image link target"
+#~ msgstr "Cible du lien"
+
+#~ msgid "Open in the same window"
+#~ msgstr "Ouvrir dans la meme fenêtre"
+
+#~ msgid "Open in a new window"
+#~ msgstr "Ouvrir dans une nouvelle fenêtre"
+
+#~ msgid "Open in a Lightbox"
+#~ msgstr "Ouvrir dans une Lightbox"
+
+#~ msgid ""
+#~ "The Lightbox option can be used with any plugin that uses the rel "
+#~ "attribute \"lightbox\". You can use the plugin "
+#~ msgstr ""
+#~ "L'option lightbox fonctionne avec n'importe quel plugin utilisant "
+#~ "l'attribut rel \"lightbox\". Vous pouvez utiliser le plugin "
+
+#~ msgid "Pro Addon must be updated !"
+#~ msgstr "L'addon Pro doit être mis à jour !"
+
+#~ msgid "Display a Slideshow CK in your website"
+#~ msgstr "Affiche un Slideshow CK dans votre site web"
+
+#~ msgid "Select the slideshow to load"
+#~ msgstr "Sélectionner le slideshow à charger"
+
+#~ msgid "Slideshow CK"
+#~ msgstr "Slideshow CK"
+
+#~ msgid "Add New Slideshow"
+#~ msgstr "Ajouter un slideshow"
+
+#~ msgid "Edit Slideshow"
+#~ msgstr "Editer le slideshow"
+
+#~ msgid "View Slideshow"
+#~ msgstr "Voir le slideshow"
+
+#~ msgid "Search Slideshow"
+#~ msgstr "Chercher un slidesho"
+
+#~ msgid "No events found"
+#~ msgstr "Aucun élément trouvé"
+
+#~ msgid "No events found in trash"
+#~ msgstr "Rien trouvé dans la poubelle"
+
+#~ msgid "All Slideshows"
+#~ msgstr "Tous les slideshows"
+
+#~ msgid "Get the PRO Version"
+#~ msgstr "Obtenir la version Complète"
+
+#~ msgid "You are using the PRO Version. Thank you !"
+#~ msgstr "Vous utilisez la version PRO. Merci !"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgid "Duration"
+#~ msgstr "Durée"
+
+#~ msgid "Alignment"
+#~ msgstr "Alignement"
+
+#~ msgid "Link"
+#~ msgstr "Lien"
+
+#~ msgid "Video"
+#~ msgstr "Vidéo"
+
+#~ msgid "Leave it blank to use the global setting"
+#~ msgstr "Laisser vide pour utiliser les paramètres globaux"
+
+#~ msgid "Image alignment"
+#~ msgstr "Alignement de l'image"
+
+#~ msgid "default"
+#~ msgstr "Défaut"
+
+#~ msgid "top left"
+#~ msgstr "haut gauche"
+
+#~ msgid "top center"
+#~ msgstr "haut centre"
+
+#~ msgid "top right"
+#~ msgstr "haut droite"
+
+#~ msgid "center left"
+#~ msgstr "centre gauche"
+
+#~ msgid "center"
+#~ msgstr "centre"
+
+#~ msgid "center right"
+#~ msgstr "centre droite"
+
+#~ msgid "bottom left"
+#~ msgstr "bas gauche"
+
+#~ msgid "bottom center"
+#~ msgstr "bas centre"
+
+#~ msgid "bottom right"
+#~ msgstr "bas droite"
+
+#~ msgid "Link url"
+#~ msgstr "Url du lien"
+
+#~ msgid "Target"
+#~ msgstr "Cible"
+
+#~ msgid "Default"
+#~ msgstr "Défaut"
+
+#~ msgid "Video url"
+#~ msgstr "Url de la vidéo"
+
+#~ msgid "Only available in the Pro Addon"
+#~ msgstr "Uniquement disponible dans la version Pro"
+
+#~ msgid "Developped By"
+#~ msgstr "Développé par"
+
+#~ msgid "Download the documentation"
+#~ msgstr "Télécharger la documentation"
+
+#~ msgid "Read more"
+#~ msgstr "En savoir plus"
+
+#~ msgid "Powered By"
+#~ msgstr "Développé par"
+
+#~ msgid "Parent window"
+#~ msgstr "Fenêtre parent"
+
+#~ msgid "New window"
+#~ msgstr "Nouvelle fenêtre"
+
+#~ msgid "Appearance"
+#~ msgstr "Apparence"
+
+#~ msgid "Dimensions"
+#~ msgstr "Dimensions"
+
+#~ msgid "Plus image"
+#~ msgstr "Image Plus"
+
+#~ msgid "Select the image to put as +"
+#~ msgstr "Sélectionner l'image à utiliser pour le +"
+
+#~ msgid "Minus image"
+#~ msgstr "Image Moins"
+
+#~ msgid "Select the image to put as -"
+#~ msgstr "Sélectionner l'image à utiliser pour le -"
+
+#~ msgid "Image width"
+#~ msgstr "Largeur de l'image"
+
+#~ msgid "Width of the element<br />Set the value in px."
+#~ msgstr "Largeur de l'élement. Définir la valeur en px"
+
+#~ msgid "Image position"
+#~ msgstr "Position de l'image"
+
+#~ msgid "Get more options with the Pro Addon"
+#~ msgstr "Obtenez plus d'options avec la version Pro"
+
+#~ msgid "Accordeon Menu CK Pro Addon must be updated !"
+#~ msgstr "Accordeon Menu CK Pro Addon doit être mise à jour !"
+
+#~ msgid "Created By"
+#~ msgstr "Créé par"
+
+#~ msgid "Accordeon Menu CK"
+#~ msgstr "Accordeon Menu CK"
+
+#~ msgid "Please select a .mmck file"
+#~ msgstr "Veuillez sélectionner un fichier .mmck"
+
+#~ msgid "Unable to read the file"
+#~ msgstr "Impossible de lire le fichier"
+
+#~ msgid "Error saving data"
+#~ msgstr "Erreur pendant l'enregistrement"
+
+#~ msgid "Background color"
+#~ msgstr "Couleur de fond"
+
+#~ msgid "Background color. Use the colorpicker or write your own value"
+#~ msgstr ""
+#~ "Couleur de fond. Utiliser la palette de couleur, ou écrire une valeur "
+#~ "personnalisée"
+
+#~ msgid ""
+#~ "Gradient color. Use the colorpicker or write your own value. Note that if "
+#~ "you use a gradient you can not use a background image."
+#~ msgstr ""
+#~ "Couleur dégradé. Utiliser la palette de couleur, ou écrire une valeur "
+#~ "personnalisée. Notez que si vous utilisez un dégradé vous ne pouvez pas "
+#~ "utiliser une image de fond"
+
+#~ msgid "Background opacity value from 0 to 1"
+#~ msgstr "Opacité du fond, valeur de 0 à 1"
+
+#~ msgid "Background image"
+#~ msgstr "Image de fond"
+
+#~ msgid ""
+#~ "Select the image to use as background. . Note that if you use a "
+#~ "background image you can not use a gradient"
+#~ msgstr ""
+#~ "Sélectionner une image de fond. Notez que si vous utiliser une image de "
+#~ "fond vous ne pouvez pas utiliser de dégradé pour le fond"
+
+#~ msgid "Background image position in the X axis (horizontal)"
+#~ msgstr "Position de l'image de fond dans l'axe X (horizontal)"
+
+#~ msgid "Background image position in the Y axis (vertical)"
+#~ msgstr "Position de l'image de fond dans l'axe Y (vertical)"
+
+#~ msgid "Border radius"
+#~ msgstr "Coins arrondis"
+
+#~ msgid ""
+#~ "Border radius Top Left width (set the value in px, em, or %, the default "
+#~ "unit is px)"
+#~ msgstr ""
+#~ "Coin supérieur gauche (définir la valeur en px, em ou %. L'unité par "
+#~ "défaut est le px)"
+
+#~ msgid ""
+#~ "Border radius Top Right width (set the value in px, em, or %, the default "
+#~ "unit is px)"
+#~ msgstr ""
+#~ "Coin supérieur droit (définir la valeur en px, em ou %. L'unité par "
+#~ "défaut est le px)"
+
+#~ msgid ""
+#~ "Border radius Bottom Right width (set the value in px, em, or %, the "
+#~ "default unit is px)"
+#~ msgstr ""
+#~ "Coin inférieur droit (définir la valeur en px, em ou %. L'unité par "
+#~ "défaut est le px)"
+
+#~ msgid ""
+#~ "Border radius Bottom Left width (set the value in px, em, or %, the "
+#~ "default unit is px)"
+#~ msgstr ""
+#~ "Coin inférieur gauche (définir la valeur en px, em ou %. L'unité par "
+#~ "défaut est le px)"
+
+#~ msgid "Blur distance"
+#~ msgstr "Diffusion"
+
+#~ msgid "Spread distance (optional)"
+#~ msgstr "Distance de propagation (optionnel)"
+
+#~ msgid "Shadow offset in the X axis (horizontal)"
+#~ msgstr "Décalage dans l'axe X (horizontal)"
+
+#~ msgid "Shadow offset in the Y axis (vertical)"
+#~ msgstr "Décalage dans l'axe Y (vertical)"
+
+#~ msgid "Width of the element. Set the value in px."
+#~ msgstr "Largeur de l'élement. Définir la valeur en px"
+
+#~ msgid "Height of the element. Set the value in px."
+#~ msgstr "Hauteur de l'élément. Définir la valeur en px"
+
+#~ msgid "Margin top (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Marge haut (définir la valeur en px, em ou %. L'unité par défaut est le "
+#~ "px)"
+
+#~ msgid "Margin right (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Marge droite (définir la valeur en px, em ou %. L'unité par défaut est le "
+#~ "px)"
+
+#~ msgid ""
+#~ "Margin bottom (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Marge bas (définir la valeur en px, em ou %. L'unité par défaut est le px)"
+
+#~ msgid "Margin left (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Marge gauche (définir la valeur en px, em ou %. L'unité par défaut est le "
+#~ "px)"
+
+#~ msgid "Padding (inside margin)"
+#~ msgstr "Padding (marge interne)"
+
+#~ msgid "Padding top (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Padding haut (définir la valeur en px, em ou %. L'unité par défaut est le "
+#~ "px)"
+
+#~ msgid ""
+#~ "Padding right (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Padding droite (définir la valeur en px, em ou %. L'unité par défaut est "
+#~ "le px)"
+
+#~ msgid ""
+#~ "Padding bottom (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Padding bas (définir la valeur en px, em ou %. L'unité par défaut est le "
+#~ "px)"
+
+#~ msgid "Padding left(set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Padding gauche (définir la valeur en px, em ou %. L'unité par défaut est "
+#~ "le px)"
+
+#~ msgid "Border color. Use the colorpicker or write your own value"
+#~ msgstr ""
+#~ "Couleur de bordure. Utiliser la palette de couleur, ou écrire une valeur "
+#~ "personnalisée"
+
+#~ msgid ""
+#~ "Border top width (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Largeur bordure haut (définir la valeur en px, em ou %. L'unité par "
+#~ "défaut est le px)"
+
+#~ msgid ""
+#~ "Border right width (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Largeur bordure droite (définir la valeur en px, em ou %. L'unité par "
+#~ "défaut est le px)"
+
+#~ msgid ""
+#~ "Border bottom width (set the value in px, em, or %, the default unit is "
+#~ "px)"
+#~ msgstr ""
+#~ "Largeur bordure bas (définir la valeur en px, em ou %. L'unité par défaut "
+#~ "est le px)"
+
+#~ msgid ""
+#~ "Border left width  (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Largeur bordure gauche (définir la valeur en px, em ou %. L'unité par "
+#~ "défaut est le px)"
+
+#~ msgid ""
+#~ "Enter the name of a google font to use, for example : Open+Sans"
+#~ "+Condensed:300"
+#~ msgstr ""
+#~ "Entrez le nom d'une police Google Font, par exemple : Open+Sans"
+#~ "+Condensed:300"
+
+#~ msgid "Font size (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Taille de police (définir la valeur en px, em ou %. L'unité par défaut "
+#~ "est le px)"
+
+#~ msgid "Link color. Use the colorpicker or write your own value"
+#~ msgstr ""
+#~ "Couleur du lien. Utiliser la palette de couleur, ou écrire une valeur "
+#~ "personnalisée"
+
+#~ msgid "Lowercase"
+#~ msgstr "Minuscule"
+
+#~ msgid "Uppercase"
+#~ msgstr "Majuscule"
+
+#~ msgid "Capitalize"
+#~ msgstr "Capital"
+
+#~ msgid "Delay"
+#~ msgstr "Délai"
+
+#~ msgid "Fade"
+#~ msgstr "Fondu"
+
+#~ msgid "Move"
+#~ msgstr "Mouvement"
+
+#~ msgid "Direction"
+#~ msgstr "Direction"
+
+#~ msgid "Top to bottom"
+#~ msgstr "Haut vers le bas"
+
+#~ msgid "Bottom to top"
+#~ msgstr "Bas vers le haut"
+
+#~ msgid "Distance"
+#~ msgstr "Distance"
+
+#~ msgid "Rotate"
+#~ msgstr "Rotation"
+
+#~ msgid "Scale"
+#~ msgstr "Echelle"
+
+#~ msgid "A customizable accordion menu."
+#~ msgstr "Un menu accordeon personnalisable"
+
+#~ msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+#~ msgstr ""
+#~ "Il n'existe aucun menu pour l'instant. <a href=\"%s\">Veuillez d'abord "
+#~ "créer un menu</a>."
+
+#~ msgid "Hide title if menu is empty"
+#~ msgstr "Cacher le titre si le menu est vide"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Select Menu"
+#~ msgstr "Sélectionner le menu"
+
+#~ msgid "How many levels to display"
+#~ msgstr "Nombre de niveaux à afficher"
+
+#~ msgid "Unlimited depth"
+#~ msgstr "Niveaux infinis"
+
+#~ msgid "1 level deep"
+#~ msgstr "1 niveau"
+
+#~ msgid "2 levels deep"
+#~ msgstr "2 niveaux"
+
+#~ msgid "3 levels deep"
+#~ msgstr "3 niveaux"
+
+#~ msgid "4 levels deep"
+#~ msgstr "4 niveaux"
+
+#~ msgid "5 levels deep"
+#~ msgstr "5 niveaux"
+
+#~ msgid "Include descriptions"
+#~ msgstr "Afficher les descriptions"
+
+#~ msgid "Menu Class"
+#~ msgstr "Classe du menu"
+
+#~ msgid "CSS class to use for the ul element which forms the menu."
+#~ msgstr "Classe CSS à utiliser pour la balise ul du menu"
+
+#~ msgid "Select Style"
+#~ msgstr "Sélectionner un style"
+
+#~ msgid "No style"
+#~ msgstr "Aucun style"
+
+#~ msgid "Edit the style"
+#~ msgstr "Editer le style"
+
+#~ msgid "You can create a new style in the Accordeon Menu CK plugin"
+#~ msgstr "Vous pouvez créer un nouveau style dans le plugin Accordeon Menu CK"
+
+#~ msgid "Choose a .mmck file"
+#~ msgstr "Choisir un fichier .mmck"
+
+#~ msgid "Install"
+#~ msgstr "Installer"
+
+#~ msgid "Download"
+#~ msgstr "Télécharger"
+
+#~ msgid "Insert"
+#~ msgstr "Insérer"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid "Preview"
+#~ msgstr "Prévisualiser"
+
+#~ msgid "Reset settings"
+#~ msgstr "Effacer les paramètres"
+
+#~ msgid "Main menu"
+#~ msgstr "Menu principal"
+
+#~ msgid "Submenu"
+#~ msgstr "Sous menu"
+
+#~ msgid "Level"
+#~ msgstr "Niveau"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS Perso"
+
+#~ msgid "Presets"
+#~ msgstr "Suggestions"
+
+#~ msgid "Group of links"
+#~ msgstr "Groupe de liens"
+
+#~ msgid "Menu link"
+#~ msgstr "Lien de menu"
+
+#~ msgid "Menu link hover"
+#~ msgstr "Lien survolé"
+
+#~ msgid "Title style"
+#~ msgstr "Style du titre"
+
+#~ msgid "Hover"
+#~ msgstr "Survol"
+
+#~ msgid "Submenu link"
+#~ msgstr "Lien de sous menu"
+
+#~ msgid "Submenu link hover"
+#~ msgstr "Lien de sous menu survolé"
+
+#~ msgid "Font size  (set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Taille de police (définir la valeur en px, em ou %. L'unité par défaut "
+#~ "est le px)"
+
+#~ msgid ""
+#~ "Font size <br />(set the value in px, em, or %, the default unit is px)"
+#~ msgstr ""
+#~ "Taille de police <br />(définir la valeur en px, em ou %. L'unité par "
+#~ "défaut est le px)"
+
+#~ msgid "Link color<br />Use the colorpicker or write your own value"
+#~ msgstr ""
+#~ "Couleur du lien<br />Utiliser la palette de couleur, ou écrire une valeur "
+#~ "personnalisée"
+
+#~ msgid "Flat display"
+#~ msgstr "Affichage à plat"
+
+#, fuzzy
+#~ msgid "Title Attribute"
+#~ msgstr "Nom de l'attribut"
+
+#~ msgid "Readmore Link"
+#~ msgstr "Lien Lire la suite"
+
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
+
+#~ msgid ""
+#~ "By visiting our website you agree that we are using cookies to ensure you "
+#~ "to get the best experience."
+#~ msgstr ""
+#~ "En visitant ce site, vous acceptez l'utilisation de cookies afin de vous "
+#~ "proposer les meilleurs services possibles."
+
+#~ msgid "I understand !"
+#~ msgstr "J'ai compris !"
+
+#~ msgid "Super Tooltip"
+#~ msgstr "Super Tooltip"
+
+#~ msgid "Dimensions and Position"
+#~ msgstr "Dimensions et Position"
+
+#~ msgid "Tooltip width"
+#~ msgstr "Largeur de la bulle"
+
+#~ msgid "Tooltip Offset X"
+#~ msgstr "Décalage horizontal"
+
+#~ msgid "Tooltip Offset Y"
+#~ msgstr "Décalage vertical"
+
+#~ msgid "Color"
+#~ msgstr "Couleur"
+
+#~ msgid "solid"
+#~ msgstr "trait continu"
+
+#~ msgid "dashed"
+#~ msgstr "trait discontinu"
+
+#~ msgid "dotted"
+#~ msgstr "pointillé"
+
+#~ msgid "Italic"
+#~ msgstr "Italique"
+
+#~ msgid "Opening speed"
+#~ msgstr "Vitesse d'ouverture"
+
+#~ msgid "Closing delay"
+#~ msgstr "Vitesse de fermeture"
+
+#~ msgid "Background Image"
+#~ msgstr "Image de fond"
+
+#~ msgid "Blur"
+#~ msgstr "Largeur"
+
+#~ msgid "Spread"
+#~ msgstr "Dispersion"
+
+#~ msgid "Effect type"
+#~ msgstr "Effet"
+
+#~ msgid "Height and Width"
+#~ msgstr "Largeur et hauteur"
+
+#~ msgid "Height only"
+#~ msgstr "Hauteur seulement"
+
+#~ msgid "Visit Home page"
+#~ msgstr "Visiter la page du plugin"
+
+#~ msgid "Create your Tooltip"
+#~ msgstr "Créez votre Tooltip"
+
+#~ msgid "Enter the the text to mouseover"
+#~ msgstr "Saisir le texte à survoler"
+
+#~ msgid "Enter the tooltip content"
+#~ msgstr "Saisir le contenu du tooltip"
+
+#~ msgid ""
+#~ "If you leave these fields blank, the general settings from the plugin "
+#~ "will be used."
+#~ msgstr ""
+#~ "Si vous laissez ces champs vides, les valeurs par défaut du plugin seront "
+#~ "utilisées."
+
+#~ msgid "my test"
+#~ msgstr "Mon test !"
+
+#~ msgid "Mediabox CK"
+#~ msgstr "Mediabox CK"
+
+#~ msgid "General Options"
+#~ msgstr "Options générales"
+
+#~ msgid "Effects Options"
+#~ msgstr "Options des Effets"
+
+#~ msgid "Mobile Options"
+#~ msgstr "Options Mobile"
+
+#~ msgid "Link detection"
+#~ msgstr "Détection du lien"
+
+#~ msgid ""
+#~ "Set if you want to apply to the links that have for example : class=&quot;"
+#~ "lightbox&quot; or rel=&quot;lightbox&quot;"
+#~ msgstr ""
+#~ "Choisissez si vous voulez détecter les liens avec par exemple : "
+#~ "class=&quot;lightbox&quot; ou rel=&quot;lightbox&quot;"
+
+#~ msgid "Attribute detection"
+#~ msgstr "Attribut pour la détection"
+
+#~ msgid "Rel"
+#~ msgstr "Rel"
+
+#~ msgid "Default height"
+#~ msgstr "Hauteur par défaut"
+
+#~ msgid "Show the title attribute of the link as caption in the lightbox"
+#~ msgstr "Montrer l'attribut title du lien comme légende de la lightbox"
+
+#~ msgid "Show caption"
+#~ msgstr "Afficher la légende"
+
+#~ msgid "Display the number of medias beside the caption"
+#~ msgstr "Montrer le nombre de médias à côté de la légende"
+
+#~ msgid ""
+#~ "If you click the next button on the last media, it comes back to the "
+#~ "first one. Else the next button is not available"
+#~ msgstr ""
+#~ "Si vous cliquez sur le bouton suivant sur le dernier média, il retourne "
+#~ "sur le premier média. Sinon le bouton suivant n'est pas disponible sur le "
+#~ "dernier média"
+
+#~ msgid "Loop medias"
+#~ msgstr "Boucler les médias"
+
+#~ msgid "Overlay Color"
+#~ msgstr "Couleur du fond de la page"
+
+#~ msgid ""
+#~ "Resize the lightbox from the following values to the media width when it "
+#~ "opens"
+#~ msgstr ""
+#~ "Ajoute un effet de redimensionnement, depuis une petite taille définie ci-"
+#~ "dessous jusqu'à la taille du média à afficher lors de son ouverture"
+
+#~ msgid "Resize transition"
+#~ msgstr "Effet de redimensionnement"
+
+#~ msgid "Switch to a specific layout with full screen for mobile"
+#~ msgstr ""
+#~ "Bascule automatiquement sur un affichage plein écran spécial pour mobile"
+
+#~ msgid "Detection type"
+#~ msgstr "Type de détection"
+
+#~ msgid "Tablet"
+#~ msgstr "Tablette"
+
+#~ msgid "Phone"
+#~ msgstr "Téléphone"
+
+#~ msgid "Mobile resolution"
+#~ msgstr "Résolution mobile"
+
+#~ msgid "Mediabox CK Settings"
+#~ msgstr "Paramètres Mediabox CK"
+
+#~ msgid "Mediabox CK is a product developped by"
+#~ msgstr "Mediabox CK est un produit développé par"
+
+#~ msgid "General"
+#~ msgstr "Général"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobile"
+
+#~ msgid "Mediabox CK General"
+#~ msgstr "Mediabox CK Général"
+
+#~ msgid "Mediabox CK Styles"
+#~ msgstr "Mediabox CK Styles"
+
+#~ msgid "Mediabox CK Effects"
+#~ msgstr "Mediabox CK Effets"
+
+#~ msgid "Mediabox CK Mobile"
+#~ msgstr "Mediabox CK Mobile"
